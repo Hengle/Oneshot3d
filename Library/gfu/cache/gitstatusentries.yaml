@@ -1,0 +1,2672 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-08-05T13:58:42.424-07:00
+  initializedAtString: 2020-08-05T13:54:27.290-07:00
+  entries:
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\badid\Os3d\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\cg_desktop.png
+    fullPath: C:\Users\badid\Os3d\Assets\cg_desktop.png
+    projectPath: Assets\cg_desktop.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cg_desktop.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\cg_desktop.png.meta
+    projectPath: Assets\cg_desktop.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cg_desktop_messagebox 1.png
+    fullPath: C:\Users\badid\Os3d\Assets\cg_desktop_messagebox 1.png
+    projectPath: Assets\cg_desktop_messagebox 1.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cg_desktop_messagebox 1.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\cg_desktop_messagebox 1.png.meta
+    projectPath: Assets\cg_desktop_messagebox 1.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cg_desktop_no_effects.png
+    fullPath: C:\Users\badid\Os3d\Assets\cg_desktop_no_effects.png
+    projectPath: Assets\cg_desktop_no_effects.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\cg_desktop_no_effects.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\cg_desktop_no_effects.png.meta
+    projectPath: Assets\cg_desktop_no_effects.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Maps\Blue-Start.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Blue-Start.unity
+    projectPath: Assets\Maps\Blue-Start.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Maps\Kelvin's room.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Kelvin's room.unity
+    projectPath: Assets\Maps\Kelvin's room.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Maps\Kelvin's room\LightingData.asset
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Kelvin's room\LightingData.asset
+    projectPath: Assets\Maps\Kelvin's room\LightingData.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Maps\Kelvin's room\LightingData.asset.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Kelvin's room\LightingData.asset.meta
+    projectPath: Assets\Maps\Kelvin's room\LightingData.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Maps\Kelvin's room\Lightmap-0_comp_dir.png
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Kelvin's room\Lightmap-0_comp_dir.png
+    projectPath: Assets\Maps\Kelvin's room\Lightmap-0_comp_dir.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Maps\Kelvin's room\Lightmap-0_comp_dir.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Kelvin's room\Lightmap-0_comp_dir.png.meta
+    projectPath: Assets\Maps\Kelvin's room\Lightmap-0_comp_dir.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Maps\Kelvin's room\Lightmap-0_comp_light.exr
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Kelvin's room\Lightmap-0_comp_light.exr
+    projectPath: Assets\Maps\Kelvin's room\Lightmap-0_comp_light.exr
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Maps\Kelvin's room\Lightmap-0_comp_light.exr.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Kelvin's room\Lightmap-0_comp_light.exr.meta
+    projectPath: Assets\Maps\Kelvin's room\Lightmap-0_comp_light.exr.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Maps\Power Station.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Power Station.unity
+    projectPath: Assets\Maps\Power Station.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Maps\Study.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Study.unity
+    projectPath: Assets\Maps\Study.unity
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Maps\Study.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Maps\Study.unity.meta
+    projectPath: Assets\Maps\Study.unity.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\cg_desktop.png
+    fullPath: C:\Users\badid\Os3d\Assets\Materials\cg_desktop.png
+    projectPath: Assets\Materials\cg_desktop.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\cg_desktop.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Materials\cg_desktop.png.meta
+    projectPath: Assets\Materials\cg_desktop.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\cg_desktop_messagebox 1.png
+    fullPath: C:\Users\badid\Os3d\Assets\Materials\cg_desktop_messagebox 1.png
+    projectPath: Assets\Materials\cg_desktop_messagebox 1.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\cg_desktop_messagebox 1.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Materials\cg_desktop_messagebox 1.png.meta
+    projectPath: Assets\Materials\cg_desktop_messagebox 1.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\cg_desktop_no_effects.png
+    fullPath: C:\Users\badid\Os3d\Assets\Materials\cg_desktop_no_effects.png
+    projectPath: Assets\Materials\cg_desktop_no_effects.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\cg_desktop_no_effects.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Materials\cg_desktop_no_effects.png.meta
+    projectPath: Assets\Materials\cg_desktop_no_effects.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\skyline.png
+    fullPath: C:\Users\badid\Os3d\Assets\Materials\skyline.png
+    projectPath: Assets\Materials\skyline.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Materials\skyline.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Materials\skyline.png.meta
+    projectPath: Assets\Materials\skyline.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Glen\gate.fbx
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Glen\gate.fbx
+    projectPath: Assets\Models\Glen\gate.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Glen\gate.fbx.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Glen\gate.fbx.meta
+    projectPath: Assets\Models\Glen\gate.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Glen\tree stumps-0.obj
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Glen\tree stumps-0.obj
+    projectPath: Assets\Models\Glen\tree stumps-0.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Glen\tree stumps-0.obj.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Glen\tree stumps-0.obj.meta
+    projectPath: Assets\Models\Glen\tree stumps-0.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Glen\tree stumps-1.obj
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Glen\tree stumps-1.obj
+    projectPath: Assets\Models\Glen\tree stumps-1.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Glen\tree stumps-1.obj.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Glen\tree stumps-1.obj.meta
+    projectPath: Assets\Models\Glen\tree stumps-1.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-0.obj
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-0.obj
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-0.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-0.obj.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-0.obj.meta
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-0.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-1.obj
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-1.obj
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-1.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-1.obj.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-1.obj.meta
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-1.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-2.obj
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-2.obj
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-2.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-2.obj.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-2.obj.meta
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-2.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-3.obj
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-3.obj
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-3.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-3.obj.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-3.obj.meta
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-3.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-4.obj
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-4.obj
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-4.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-4.obj.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-4.obj.meta
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-4.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-5.obj
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-5.obj
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-5.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-5.obj.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\New folder\candles
+      n shit-5.obj.meta
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\New folder\candles n shit-5.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-0.obj
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-0.obj
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-0.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-0.obj.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-0.obj.meta
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-0.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-1.obj
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-1.obj
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-1.obj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-1.obj.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-1.obj.meta
+    projectPath: Assets\Models\Kelvin's Room\KelvinModels\Stairwayrefuge-1.obj.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Red Ground 1\cityfinalbuild.blend
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Red Ground 1\cityfinalbuild.blend
+    projectPath: Assets\Models\Red Ground 1\cityfinalbuild.blend
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Red Ground 1\cityfinalbuild.blend.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Red Ground 1\cityfinalbuild.blend.meta
+    projectPath: Assets\Models\Red Ground 1\cityfinalbuild.blend.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Red Ground 1\citytestmap.dae
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Red Ground 1\citytestmap.dae
+    projectPath: Assets\Models\Red Ground 1\citytestmap.dae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Red Ground 1\citytestmap.dae.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Red Ground 1\citytestmap.dae.meta
+    projectPath: Assets\Models\Red Ground 1\citytestmap.dae.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Red Ground 1\New Folder\aaaaa\cityfinalbuild.dae
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Red Ground 1\New Folder\aaaaa\cityfinalbuild.dae
+    projectPath: Assets\Models\Red Ground 1\New Folder\aaaaa\cityfinalbuild.dae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Models\Red Ground 1\New Folder\aaaaa\cityfinalbuild.dae.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Models\Red Ground 1\New Folder\aaaaa\cityfinalbuild.dae.meta
+    projectPath: Assets\Models\Red Ground 1\New Folder\aaaaa\cityfinalbuild.dae.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\New Folder(1)\cityfinalbuild.dae
+    fullPath: C:\Users\badid\Os3d\Assets\New Folder(1)\cityfinalbuild.dae
+    projectPath: Assets\New Folder(1)\cityfinalbuild.dae
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\New Folder(1)\cityfinalbuild.dae.meta
+    fullPath: C:\Users\badid\Os3d\Assets\New Folder(1)\cityfinalbuild.dae.meta
+    projectPath: Assets\New Folder(1)\cityfinalbuild.dae.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\pc_logon.wav
+    fullPath: C:\Users\badid\Os3d\Assets\pc_logon.wav
+    projectPath: Assets\pc_logon.wav
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\pc_logon.wav.meta
+    fullPath: C:\Users\badid\Os3d\Assets\pc_logon.wav.meta
+    projectPath: Assets\pc_logon.wav.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\pc_messagebox.wav
+    fullPath: C:\Users\badid\Os3d\Assets\pc_messagebox.wav
+    projectPath: Assets\pc_messagebox.wav
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\pc_messagebox.wav.meta
+    fullPath: C:\Users\badid\Os3d\Assets\pc_messagebox.wav.meta
+    projectPath: Assets\pc_messagebox.wav.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\skyline.png
+    fullPath: C:\Users\badid\Os3d\Assets\skyline.png
+    projectPath: Assets\skyline.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\skyline.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\skyline.png.meta
+    projectPath: Assets\skyline.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Sounds\pc_logon.wav
+    fullPath: C:\Users\badid\Os3d\Assets\Sounds\pc_logon.wav
+    projectPath: Assets\Sounds\pc_logon.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\pc_logon.wav.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Sounds\pc_logon.wav.meta
+    projectPath: Assets\Sounds\pc_logon.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\pc_messagebox.wav
+    fullPath: C:\Users\badid\Os3d\Assets\Sounds\pc_messagebox.wav
+    projectPath: Assets\Sounds\pc_messagebox.wav
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Sounds\pc_messagebox.wav.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Sounds\pc_messagebox.wav.meta
+    projectPath: Assets\Sounds\pc_messagebox.wav.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\terrain\objmaterials\blueground.mat
+    fullPath: C:\Users\badid\Os3d\Assets\terrain\objmaterials\blueground.mat
+    projectPath: Assets\terrain\objmaterials\blueground.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Textures\AllSkyFree.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree.meta
+    projectPath: Assets\Textures\AllSkyFree.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AdditiveSprite.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AdditiveSprite.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AdditiveSprite.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AdditiveSprite.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AdditiveSprite.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AdditiveSprite.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment.fbx
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment.fbx
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment.fbx.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment.fbx.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Center.fbx
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Center.fbx
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Center.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Center.fbx.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Center.fbx.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Center.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Light.fbx
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Light.fbx
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Light.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Light.fbx.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Light.fbx.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment_Light.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment02.fbx
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment02.fbx
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment02.fbx
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment02.fbx.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment02.fbx.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_DemoEnvironment02.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_Logo.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_Logo.png
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_Logo.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_Logo.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_Logo.png.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSky_Logo.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSkyDemoEnvironment_Unity4.prefab
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSkyDemoEnvironment_Unity4.prefab
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSkyDemoEnvironment_Unity4.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSkyDemoEnvironment_Unity4.prefab.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSkyDemoEnvironment_Unity4.prefab.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\AllSkyDemoEnvironment_Unity4.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\BlackTransparentGradient.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\BlackTransparentGradient.png
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\BlackTransparentGradient.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\BlackTransparentGradient.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\BlackTransparentGradient.png.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\BlackTransparentGradient.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\HowToUpResSkies.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\HowToUpResSkies.png
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\HowToUpResSkies.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\HowToUpResSkies.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\HowToUpResSkies.png.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\HowToUpResSkies.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Building.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Building.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Building.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Building.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Building.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Building.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Blue.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Blue.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Blue.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Blue.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Blue.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Blue.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Gold.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Gold.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Gold.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Gold.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Gold.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Gold.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Red.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Red.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Red.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Red.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Red.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Flag_Red.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_FlagGreen.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_FlagGreen.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_FlagGreen.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_FlagGreen.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_FlagGreen.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_FlagGreen.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Landscape.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Landscape.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Landscape.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Landscape.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Landscape.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Landscape.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightIllum.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightIllum.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightIllum.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightIllum.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightIllum.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightIllum.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightMetal.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightMetal.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightMetal.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightMetal.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightMetal.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_LightMetal.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_MountainGlow.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_MountainGlow.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_MountainGlow.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_MountainGlow.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_MountainGlow.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_MountainGlow.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Rock.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Rock.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Rock.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Rock.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Rock.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_Rock.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_SphereSkyReflect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_SphereSkyReflect.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_SphereSkyReflect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_SphereSkyReflect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_SphereSkyReflect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_SphereSkyReflect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeLeaves.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeLeaves.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeLeaves.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeLeaves.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeLeaves.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeLeaves.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeTrunk.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeTrunk.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeTrunk.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeTrunk.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeTrunk.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\AllSkyDemoEnv_TreeTrunk.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\Landscape.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\Landscape.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\Landscape.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\Landscape.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\Landscape.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\Landscape.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\rock.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\rock.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\rock.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\rock.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\rock.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\rock.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeLeaves.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeLeaves.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeLeaves.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeLeaves.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeLeaves.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeLeaves.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeTrunk.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeTrunk.mat
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeTrunk.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeTrunk.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeTrunk.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Materials\TreeTrunk.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Moon Glare.flare
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Moon
+      Glare.flare
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Moon Glare.flare
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Moon Glare.flare.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Moon
+      Glare.flare.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Moon Glare.flare.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\MoonGlow.prefab
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\MoonGlow.prefab
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\MoonGlow.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\MoonGlow.prefab.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\MoonGlow.prefab.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\MoonGlow.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Mountain Glare.flare
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Mountain
+      Glare.flare
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Mountain Glare.flare
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Mountain Glare.flare.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Mountain
+      Glare.flare.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Mountain Glare.flare.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Sun Glare.flare
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Sun
+      Glare.flare
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Sun Glare.flare
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Sun Glare.flare.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Sun
+      Glare.flare.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\Sun Glare.flare.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlare.psd
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlare.psd
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlare.psd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlare.psd.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlare.psd.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlare.psd.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlow.prefab
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlow.prefab
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlow.prefab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlow.prefab.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlow.prefab.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyDemoEnvironment\SunGlow.prefab.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyFree_Readme.txt
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyFree_Readme.txt
+    projectPath: Assets\Textures\AllSkyFree\AllSkyFree_Readme.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\AllSkyFree_Readme.txt.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\AllSkyFree_Readme.txt.meta
+    projectPath: Assets\Textures\AllSkyFree\AllSkyFree_Readme.txt.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing Equirect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing
+      Equirect.mat
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing
+      Equirect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing Equirect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing
+      Equirect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing
+      Equirect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.mat
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.unity
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.unity.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Day_BlueSky_Nothing.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Equirect.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Equirect.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Equirect.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Equirect.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Equirect.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Equirect.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_2_Left+X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_2_Left+X.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_2_Left+X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_2_Left+X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_2_Left+X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_2_Left+X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_4_Up+Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_4_Up+Y.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_4_Up+Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_4_Up+Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_4_Up+Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_4_Up+Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_5_Down-Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_5_Down-Y.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_5_Down-Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_5_Down-Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_5_Down-Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base BlueSky\Sky_Day_BlueSky_Nothing_Cam_5_Down-Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky
+      Equirect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky Equirect.mat
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky
+      Equirect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky
+      Equirect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky Equirect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky
+      Equirect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky
+      Equirect.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky Equirect.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky
+      Equirect.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky
+      Equirect.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky Equirect.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky
+      Equirect.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky.mat
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky.unity
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky.unity.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_0_Front+Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_0_Front+Z.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_0_Front+Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_0_Front+Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_0_Front+Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_0_Front+Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_1_Back-Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_1_Back-Z.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_1_Back-Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_1_Back-Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_1_Back-Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_1_Back-Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_2_Left+X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_2_Left+X.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_2_Left+X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_2_Left+X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_2_Left+X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_2_Left+X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_3_Right-X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_3_Right-X.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_3_Right-X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_3_Right-X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_3_Right-X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_3_Right-X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_4_Up+Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_4_Up+Y.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_4_Up+Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_4_Up+Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_4_Up+Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_4_Up+Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_5_Down-Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_5_Down-Y.png
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_5_Down-Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_5_Down-Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon
+      Base NightSky_Cam_5_Down-Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cartoon Base NightSky\Cartoon Base NightSky_Cam_5_Down-Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night Equirect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night
+      Equirect.mat
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night Equirect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night Equirect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night
+      Equirect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night Equirect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night Equirect.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night
+      Equirect.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night Equirect.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night Equirect.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night
+      Equirect.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night Equirect.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night.mat
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night.unity
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night.unity.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_0_Front+Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_0_Front+Z.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_0_Front+Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_0_Front+Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_0_Front+Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_0_Front+Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_1_Back-Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_1_Back-Z.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_1_Back-Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_1_Back-Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_1_Back-Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_1_Back-Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_2_Left+X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_2_Left+X.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_2_Left+X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_2_Left+X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_2_Left+X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_2_Left+X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_3_Right-X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_3_Right-X.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_3_Right-X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_3_Right-X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_3_Right-X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_3_Right-X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_4_Up+Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_4_Up+Y.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_4_Up+Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_4_Up+Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_4_Up+Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_4_Up+Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_5_Down-Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_5_Down-Y.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_5_Down-Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_5_Down-Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_5_Down-Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Night\Cold Night__Cam_5_Down-Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset Equirect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset
+      Equirect.mat
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset Equirect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset Equirect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset
+      Equirect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset Equirect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset Equirect.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset
+      Equirect.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset Equirect.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset Equirect.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset
+      Equirect.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset Equirect.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.mat
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.unity
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.unity.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_0_Front+Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_0_Front+Z.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_0_Front+Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_0_Front+Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_0_Front+Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_0_Front+Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_1_Back-Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_1_Back-Z.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_1_Back-Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_1_Back-Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_1_Back-Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_1_Back-Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_2_Left+X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_2_Left+X.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_2_Left+X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_2_Left+X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_2_Left+X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_2_Left+X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_3_Right-X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_3_Right-X.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_3_Right-X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_3_Right-X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_3_Right-X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_3_Right-X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_4_Up+Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_4_Up+Y.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_4_Up+Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_4_Up+Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_4_Up+Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_4_Up+Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_5_Down-Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_5_Down-Y.png
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_5_Down-Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_5_Down-Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_5_Down-Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Cold Sunset\Cold Sunset__Cam_5_Down-Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk Equirect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk
+      Equirect.mat
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk Equirect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk Equirect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk
+      Equirect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk Equirect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk Equirect.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk
+      Equirect.png
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk Equirect.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk Equirect.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk
+      Equirect.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk Equirect.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.mat
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.unity
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.unity.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_0_Front+Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_0_Front+Z.png
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_0_Front+Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_0_Front+Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_0_Front+Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_0_Front+Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_1_Back-Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_1_Back-Z.png
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_1_Back-Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_1_Back-Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_1_Back-Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_1_Back-Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_2_Left+X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_2_Left+X.png
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_2_Left+X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_2_Left+X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_2_Left+X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_2_Left+X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_3_Right-X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_3_Right-X.png
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_3_Right-X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_3_Right-X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_3_Right-X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_3_Right-X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_4_Up+Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_4_Up+Y.png
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_4_Up+Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_4_Up+Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_4_Up+Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_4_Up+Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_5_Down-Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_5_Down-Y.png
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_5_Down-Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_5_Down-Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_5_Down-Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Deep Dusk\Deep Dusk__Cam_5_Down-Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset Equirect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset
+      Equirect.mat
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset Equirect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset Equirect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset
+      Equirect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset Equirect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.mat
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.unity
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.unity.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_0_Front+Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_0_Front+Z.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_0_Front+Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_0_Front+Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_0_Front+Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_0_Front+Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_1_Back-Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_1_Back-Z.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_1_Back-Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_1_Back-Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_1_Back-Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_1_Back-Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_2_Left+X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_2_Left+X.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_2_Left+X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_2_Left+X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_2_Left+X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_2_Left+X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_3_Right-X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_3_Right-X.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_3_Right-X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_3_Right-X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_3_Right-X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_3_Right-X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_4_Up+Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_4_Up+Y.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_4_Up+Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_4_Up+Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_4_Up+Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_4_Up+Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_5_Down-Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_5_Down-Y.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_5_Down-Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_5_Down-Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_5_Down-Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_Cam_5_Down-Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_EquiRect_flat.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_EquiRect_flat.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_EquiRect_flat.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_EquiRect_flat.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_EquiRect_flat.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_BlueSunset\Epic_BlueSunset_EquiRect_flat.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink Equirect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink
+      Equirect.mat
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink Equirect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink Equirect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink
+      Equirect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink Equirect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.mat
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.unity
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.unity.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_0_Front+Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_0_Front+Z.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_0_Front+Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_0_Front+Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_0_Front+Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_0_Front+Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_1_Back-Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_1_Back-Z.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_1_Back-Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_1_Back-Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_1_Back-Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_1_Back-Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_2_Left+X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_2_Left+X.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_2_Left+X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_2_Left+X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_2_Left+X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_2_Left+X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_3_Right-X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_3_Right-X.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_3_Right-X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_3_Right-X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_3_Right-X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_3_Right-X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_4_Up+Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_4_Up+Y.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_4_Up+Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_4_Up+Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_4_Up+Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_4_Up+Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_5_Down-Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_5_Down-Y.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_5_Down-Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_5_Down-Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_5_Down-Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_Cam_5_Down-Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_EquiRect.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_EquiRect.png
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_EquiRect.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_EquiRect.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_EquiRect.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Epic_GloriousPink\Epic_GloriousPink_EquiRect.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst Equirect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst
+      Equirect.mat
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst
+      Equirect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst Equirect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst
+      Equirect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst
+      Equirect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst Equirect.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst
+      Equirect.png
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst
+      Equirect.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst Equirect.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst
+      Equirect.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\AllSky_Night_MoonBurst
+      Equirect.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst.mat
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst.unity
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst.unity.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_0_Front+Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_0_Front+Z.png
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_0_Front+Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_0_Front+Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_0_Front+Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_0_Front+Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_1_Back-Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_1_Back-Z.png
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_1_Back-Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_1_Back-Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_1_Back-Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_1_Back-Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_2_Left+X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_2_Left+X.png
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_2_Left+X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_2_Left+X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_2_Left+X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_2_Left+X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_3_Right-X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_3_Right-X.png
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_3_Right-X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_3_Right-X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_3_Right-X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_3_Right-X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_4_Up+Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_4_Up+Y.png
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_4_Up+Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_4_Up+Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_4_Up+Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_4_Up+Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_5_Down-Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_5_Down-Y.png
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_5_Down-Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_5_Down-Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Night MoonBurst\Night
+      Moon Burst_Cam_5_Down-Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Night MoonBurst\Night Moon Burst_Cam_5_Down-Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low Equirect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low
+      Equirect.mat
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low Equirect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low Equirect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low
+      Equirect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low Equirect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.mat
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.png
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.unity
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.unity.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\AllSky_Overcast4_Low.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_0_Front+Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_0_Front+Z.png
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_0_Front+Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_0_Front+Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_0_Front+Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_0_Front+Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_1_Back-Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_1_Back-Z.png
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_1_Back-Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_1_Back-Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_1_Back-Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_1_Back-Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_2_Left+X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_2_Left+X.png
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_2_Left+X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_2_Left+X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_2_Left+X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_2_Left+X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_3_Right-X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_3_Right-X.png
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_3_Right-X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_3_Right-X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_3_Right-X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_3_Right-X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_4_Up+Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_4_Up+Y.png
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_4_Up+Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_4_Up+Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_4_Up+Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_4_Up+Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Overcast Low\Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.mat
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.png
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet
+      Equirect.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.mat
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.mat
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.mat.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.mat.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.mat.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.unity
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.unity
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.unity.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.unity.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet.unity.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_0_Front+Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_0_Front+Z.png
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_0_Front+Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_0_Front+Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_0_Front+Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_0_Front+Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_1_Back-Z.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_1_Back-Z.png
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_1_Back-Z.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_1_Back-Z.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_1_Back-Z.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_1_Back-Z.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_2_Left+X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_2_Left+X.png
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_2_Left+X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_2_Left+X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_2_Left+X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_2_Left+X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_3_Right-X.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_3_Right-X.png
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_3_Right-X.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_3_Right-X.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_3_Right-X.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_3_Right-X.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_4_Up+Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_4_Up+Y.png
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_4_Up+Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_4_Up+Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_4_Up+Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_4_Up+Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_5_Down-Y.png
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_5_Down-Y.png
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_5_Down-Y.png
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_5_Down-Y.png.meta
+    fullPath: C:\Users\badid\Os3d\Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_5_Down-Y.png.meta
+    projectPath: Assets\Textures\AllSkyFree\Space_AnotherPlanet\AllSky_Space_AnotherPlanet_Cam_5_Down-Y.png.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\badid\Os3d\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\Artifacts\1d\1d5b961492e6a6a79024f504a23d56bd
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\1d\1d5b961492e6a6a79024f504a23d56bd
+    projectPath: Library\Artifacts\1d\1d5b961492e6a6a79024f504a23d56bd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\25\2519030f26b350812e37d23a2877ec3d
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\25\2519030f26b350812e37d23a2877ec3d
+    projectPath: Library\Artifacts\25\2519030f26b350812e37d23a2877ec3d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\26\26422a931362623ce9ead0959cb1b3f4
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\26\26422a931362623ce9ead0959cb1b3f4
+    projectPath: Library\Artifacts\26\26422a931362623ce9ead0959cb1b3f4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\32\329a2a54d3f67bd6d779574ca71cb881
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\32\329a2a54d3f67bd6d779574ca71cb881
+    projectPath: Library\Artifacts\32\329a2a54d3f67bd6d779574ca71cb881
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\36\36f7e91ba37f3d6d8debf45b51d6db35
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\36\36f7e91ba37f3d6d8debf45b51d6db35
+    projectPath: Library\Artifacts\36\36f7e91ba37f3d6d8debf45b51d6db35
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\47\4715dff09dba1dd88dcd258336d89dfd
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\47\4715dff09dba1dd88dcd258336d89dfd
+    projectPath: Library\Artifacts\47\4715dff09dba1dd88dcd258336d89dfd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\4f\4f523f523f864bd1928682900c924fa2
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\4f\4f523f523f864bd1928682900c924fa2
+    projectPath: Library\Artifacts\4f\4f523f523f864bd1928682900c924fa2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\72\72bae51befa14e80d9a1516cc2565b3a
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\72\72bae51befa14e80d9a1516cc2565b3a
+    projectPath: Library\Artifacts\72\72bae51befa14e80d9a1516cc2565b3a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\85\8543538f9ef2ffc9c1dad817b0c9f70e
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\85\8543538f9ef2ffc9c1dad817b0c9f70e
+    projectPath: Library\Artifacts\85\8543538f9ef2ffc9c1dad817b0c9f70e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\8b\8bbab85e76dc64f5c70a46c1bba10019
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\8b\8bbab85e76dc64f5c70a46c1bba10019
+    projectPath: Library\Artifacts\8b\8bbab85e76dc64f5c70a46c1bba10019
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a8\a89511abfffb90f80338cb47b912ae56
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\a8\a89511abfffb90f80338cb47b912ae56
+    projectPath: Library\Artifacts\a8\a89511abfffb90f80338cb47b912ae56
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\c2\c2860bd9481b3c87866b95c0fe52a3ef
+    fullPath: C:\Users\badid\Os3d\Library\Artifacts\c2\c2860bd9481b3c87866b95c0fe52a3ef
+    projectPath: Library\Artifacts\c2\c2860bd9481b3c87866b95c0fe52a3ef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Collab\CollabSnapshot_ed33ef79-92c0-42b2-a614-25baa01488e8.txt
+    fullPath: C:\Users\badid\Os3d\Library\Collab\CollabSnapshot_ed33ef79-92c0-42b2-a614-25baa01488e8.txt
+    projectPath: Library\Collab\CollabSnapshot_ed33ef79-92c0-42b2-a614-25baa01488e8.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\badid\Os3d\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\badid\Os3d\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\expandedItems
+    fullPath: C:\Users\badid\Os3d\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\badid\Os3d\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\badid\Os3d\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\badid\Os3d\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\badid\Os3d\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\badid\Os3d\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\badid\Os3d\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\badid\Os3d\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache.db
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache.db
+    projectPath: Library\ShaderCache.db
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\0\04d8223675932f46741d4529ee04c40a.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\0\04d8223675932f46741d4529ee04c40a.bin
+    projectPath: Library\ShaderCache\0\04d8223675932f46741d4529ee04c40a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\0\0dd1cc0c3ddf7a180525b9fe1d3cfa5f.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\0\0dd1cc0c3ddf7a180525b9fe1d3cfa5f.bin
+    projectPath: Library\ShaderCache\0\0dd1cc0c3ddf7a180525b9fe1d3cfa5f.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\10f45edbbc9ae5e5dfd6b076a6f8df4a.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\1\10f45edbbc9ae5e5dfd6b076a6f8df4a.bin
+    projectPath: Library\ShaderCache\1\10f45edbbc9ae5e5dfd6b076a6f8df4a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\18d935f3a8618bf4c31189786a48c7ee.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\1\18d935f3a8618bf4c31189786a48c7ee.bin
+    projectPath: Library\ShaderCache\1\18d935f3a8618bf4c31189786a48c7ee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1d061a7362f689f15d0feae0d352bf41.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\1\1d061a7362f689f15d0feae0d352bf41.bin
+    projectPath: Library\ShaderCache\1\1d061a7362f689f15d0feae0d352bf41.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\1\1e3314e08b7c3045fe6d828bba480407.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\1\1e3314e08b7c3045fe6d828bba480407.bin
+    projectPath: Library\ShaderCache\1\1e3314e08b7c3045fe6d828bba480407.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\20ca6d0d726e9d2b614c05cd89c6668c.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\2\20ca6d0d726e9d2b614c05cd89c6668c.bin
+    projectPath: Library\ShaderCache\2\20ca6d0d726e9d2b614c05cd89c6668c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\239662f39fd66c3ba6af297234dbe431.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\2\239662f39fd66c3ba6af297234dbe431.bin
+    projectPath: Library\ShaderCache\2\239662f39fd66c3ba6af297234dbe431.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\2\26035ba930ceaa4e286a91727582b81e.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\2\26035ba930ceaa4e286a91727582b81e.bin
+    projectPath: Library\ShaderCache\2\26035ba930ceaa4e286a91727582b81e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\315d401b0e29b8dc061058adc1499672.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\3\315d401b0e29b8dc061058adc1499672.bin
+    projectPath: Library\ShaderCache\3\315d401b0e29b8dc061058adc1499672.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\319395322c3dd0b4084e20933acde3fc.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\3\319395322c3dd0b4084e20933acde3fc.bin
+    projectPath: Library\ShaderCache\3\319395322c3dd0b4084e20933acde3fc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\3463751005755aaf5dd0671ca1dcdf3d.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\3\3463751005755aaf5dd0671ca1dcdf3d.bin
+    projectPath: Library\ShaderCache\3\3463751005755aaf5dd0671ca1dcdf3d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\3\37b3d163047a177c2237a55433824708.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\3\37b3d163047a177c2237a55433824708.bin
+    projectPath: Library\ShaderCache\3\37b3d163047a177c2237a55433824708.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\4\4d26a28323d005e0e2c15df831d32c82.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\4\4d26a28323d005e0e2c15df831d32c82.bin
+    projectPath: Library\ShaderCache\4\4d26a28323d005e0e2c15df831d32c82.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\54fba5f09894004bee31b8853ae365ec.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\5\54fba5f09894004bee31b8853ae365ec.bin
+    projectPath: Library\ShaderCache\5\54fba5f09894004bee31b8853ae365ec.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\5\5ea3dc90206a2c3228d124845e7c2b2a.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\5\5ea3dc90206a2c3228d124845e7c2b2a.bin
+    projectPath: Library\ShaderCache\5\5ea3dc90206a2c3228d124845e7c2b2a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\6\6b0819ed3c864a83ea0521f76e4001d8.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\6\6b0819ed3c864a83ea0521f76e4001d8.bin
+    projectPath: Library\ShaderCache\6\6b0819ed3c864a83ea0521f76e4001d8.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\76ee94fd64adc656c7d2ff1dbc81091a.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\7\76ee94fd64adc656c7d2ff1dbc81091a.bin
+    projectPath: Library\ShaderCache\7\76ee94fd64adc656c7d2ff1dbc81091a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\7839663b5287b11aed0a26c273a3f980.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\7\7839663b5287b11aed0a26c273a3f980.bin
+    projectPath: Library\ShaderCache\7\7839663b5287b11aed0a26c273a3f980.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\7\79636b97c137b08b9f130d397f857943.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\7\79636b97c137b08b9f130d397f857943.bin
+    projectPath: Library\ShaderCache\7\79636b97c137b08b9f130d397f857943.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8064ebd4a3beb3416ce5e7166d67941c.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\8\8064ebd4a3beb3416ce5e7166d67941c.bin
+    projectPath: Library\ShaderCache\8\8064ebd4a3beb3416ce5e7166d67941c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\83e80a8b8d15d1b9e1fda023fb2e758b.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\8\83e80a8b8d15d1b9e1fda023fb2e758b.bin
+    projectPath: Library\ShaderCache\8\83e80a8b8d15d1b9e1fda023fb2e758b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\88c5b43549c33c8256f383d8c468228d.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\8\88c5b43549c33c8256f383d8c468228d.bin
+    projectPath: Library\ShaderCache\8\88c5b43549c33c8256f383d8c468228d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8d3b3663332a1071ed835cb4fa5376cb.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\8\8d3b3663332a1071ed835cb4fa5376cb.bin
+    projectPath: Library\ShaderCache\8\8d3b3663332a1071ed835cb4fa5376cb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\8\8f88f418acb79d0b3c49438e696f8aa5.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\8\8f88f418acb79d0b3c49438e696f8aa5.bin
+    projectPath: Library\ShaderCache\8\8f88f418acb79d0b3c49438e696f8aa5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\90e4d70dbc3659f0c6ffa00a7468c85b.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\9\90e4d70dbc3659f0c6ffa00a7468c85b.bin
+    projectPath: Library\ShaderCache\9\90e4d70dbc3659f0c6ffa00a7468c85b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\964d4db85f7afdf1ed17d650d378c490.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\9\964d4db85f7afdf1ed17d650d378c490.bin
+    projectPath: Library\ShaderCache\9\964d4db85f7afdf1ed17d650d378c490.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9b7fae1dee0fbd1bc6f49eb83190f53e.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\9\9b7fae1dee0fbd1bc6f49eb83190f53e.bin
+    projectPath: Library\ShaderCache\9\9b7fae1dee0fbd1bc6f49eb83190f53e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\9\9db96d860c33e3a635ce04b61525d733.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\9\9db96d860c33e3a635ce04b61525d733.bin
+    projectPath: Library\ShaderCache\9\9db96d860c33e3a635ce04b61525d733.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a8656f0c74bc0c7be09674e3733cc1e7.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\a\a8656f0c74bc0c7be09674e3733cc1e7.bin
+    projectPath: Library\ShaderCache\a\a8656f0c74bc0c7be09674e3733cc1e7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\a9d4a3cebd80b0b574ce8d1fb1c02cd6.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\a\a9d4a3cebd80b0b574ce8d1fb1c02cd6.bin
+    projectPath: Library\ShaderCache\a\a9d4a3cebd80b0b574ce8d1fb1c02cd6.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\a\af9a8694ba04daffa0719ea26e32f97e.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\a\af9a8694ba04daffa0719ea26e32f97e.bin
+    projectPath: Library\ShaderCache\a\af9a8694ba04daffa0719ea26e32f97e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\b2998558f0d0d9b8ff911de4f1e2eed2.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\b\b2998558f0d0d9b8ff911de4f1e2eed2.bin
+    projectPath: Library\ShaderCache\b\b2998558f0d0d9b8ff911de4f1e2eed2.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\b\be62172cc3c9dcfe748a220de965c052.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\b\be62172cc3c9dcfe748a220de965c052.bin
+    projectPath: Library\ShaderCache\b\be62172cc3c9dcfe748a220de965c052.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\c\c2521cf036f598abbc93e1d96f10a159.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\c\c2521cf036f598abbc93e1d96f10a159.bin
+    projectPath: Library\ShaderCache\c\c2521cf036f598abbc93e1d96f10a159.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d63af7a87099354c0545317722c81e06.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\d\d63af7a87099354c0545317722c81e06.bin
+    projectPath: Library\ShaderCache\d\d63af7a87099354c0545317722c81e06.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\d88f7cc7e5170b0c4c91055be2b6c739.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\d\d88f7cc7e5170b0c4c91055be2b6c739.bin
+    projectPath: Library\ShaderCache\d\d88f7cc7e5170b0c4c91055be2b6c739.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\d\df5f0bbe3589c19f9f5a734e249e234a.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\d\df5f0bbe3589c19f9f5a734e249e234a.bin
+    projectPath: Library\ShaderCache\d\df5f0bbe3589c19f9f5a734e249e234a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e248b6f1388e5ac71c80726596f40c7a.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\e\e248b6f1388e5ac71c80726596f40c7a.bin
+    projectPath: Library\ShaderCache\e\e248b6f1388e5ac71c80726596f40c7a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\e\e770c44d94815a8752e34bd09701c082.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\e\e770c44d94815a8752e34bd09701c082.bin
+    projectPath: Library\ShaderCache\e\e770c44d94815a8752e34bd09701c082.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\ShaderCache\EditorEncounteredVariants
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\ShaderCache\f\fc763a0bdf7efa0f0bae688b4580c188.bin
+    fullPath: C:\Users\badid\Os3d\Library\ShaderCache\f\fc763a0bdf7efa0f0bae688b4580c188.bin
+    projectPath: Library\ShaderCache\f\fc763a0bdf7efa0f0bae688b4580c188.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\badid\Os3d\Library\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    fullPath: C:\Users\badid\Os3d\Library\shadercompiler-UnityShaderCompiler.exe10.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    fullPath: C:\Users\badid\Os3d\Library\shadercompiler-UnityShaderCompiler.exe11.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\badid\Os3d\Library\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: C:\Users\badid\Os3d\Library\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    fullPath: C:\Users\badid\Os3d\Library\shadercompiler-UnityShaderCompiler.exe9.log
+    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\SourceAssetDB
+    fullPath: C:\Users\badid\Os3d\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\Hierarchy\826c4a-mainStage.json
+    fullPath: C:\Users\badid\Os3d\Library\StateCache\Hierarchy\826c4a-mainStage.json
+    projectPath: Library\StateCache\Hierarchy\826c4a-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\StateCache\SceneView\5a9681-mainStage.json
+    fullPath: C:\Users\badid\Os3d\Library\StateCache\SceneView\5a9681-mainStage.json
+    projectPath: Library\StateCache\SceneView\5a9681-mainStage.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\badid\Os3d\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\ProcessJobs\2b7c9faad639529468ccc43d87eb229c.bakert
+    fullPath: C:\Users\badid\Os3d\Temp\ProcessJobs\2b7c9faad639529468ccc43d87eb229c.bakert
+    projectPath: Temp\ProcessJobs\2b7c9faad639529468ccc43d87eb229c.bakert
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\badid\Os3d\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1

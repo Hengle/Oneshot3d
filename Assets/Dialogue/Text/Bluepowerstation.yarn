@@ -1,0 +1,79 @@
+title: BigMachine
+tags: 
+colorID: 0
+position: 860,428
+---
+<<setsprite Niko Talking>> 
+That's a big machine!
+<<setsprite Niko Neutral>>
+It doesn't seem to be doing anything, though...
+There's a rectangle-shaped hole in the middle.
+<<setsprite Niko Talking>> 
+Looks like something used to fit in here...
+<<setsprite Niko Empty>> 
+===
+title: SmallMachine
+tags: 
+colorID: 0
+position: 1105,423
+---
+<<if $talkedtosmall is 0>> 
+<<setsprite Niko Neutral>> 
+Some sort of small machine.
+I wonder what it does?
+<<setsprite Niko Talking>>
+I can feel my hair standing up a little...
+<<setsprite Niko Empty>> 
+<<set $talkedtosmall to 1>> 
+<<stop>> 
+<<endif>>
+
+<<if $talkedtosmall is 1>> 
+<<setsprite Niko Neutral>> 
+It's a power cell...
+I think.
+<<setsprite Niko Talking>>
+Oh!
+The word "Prophetbot" is written on the side.
+<<setsprite Niko Neutral>>
+Didn't notice that earlier.
+<<setsprite Niko Empty>> 
+<< set $talkedtosmall to 2>> 
+<<stop>> 
+<<endif>>
+
+<<if $talkedtosmall is 2>> 
+<<setsprite Niko What>> 
+Ow!
+<<setsprite Niko EyesClosed>> 
+I just got shocked
+<<setsprite Niko Empty>> 
+<< set $talkedtosmall to 3>> 
+<<stop>>
+<<endif>>
+
+<<if $talkedtosmall is 3>> 
+<<setsprite Niko Talking>>
+I don't wanna get shocked again player!
+<<stop>>
+<<endif>>
+===
+
+title: Phosphor
+tags: 
+colorID: 0
+position: 644,428
+---
+<<setsprite Niko Neutral>> 
+There are a lot of small, glowing shrimp swimming in the jar.
+<<setsprite Niko Empty>> 
+===
+title: Bookshelf
+tags: 
+colorID: 0
+position: 1333,420
+---
+<<setsprite Niko Neutral>>
+Dusty shelves.
+<<setsprite Niko Empty>> 
+===

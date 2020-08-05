@@ -1,0 +1,54 @@
+title: KelvinFirstContact
+tags: 
+colorID: 0
+position: 857,430
+---
+<<if visited("Kelvin") is false>>
+[Oh, a cat.]
+[Are you lost?]
+<<setsprite Niko Neutral>> 
+Me?
+<<setsprite Niko Empty>> 
+[Do you wish to join us?]
+<<setsprite Niko Neutral>> 
+Join... your cats?
+<<setsprite Niko Empty>> 
+[Yes.]
+<<setsprite Niko Neutral>> 
+But I'm not a cat...
+<<setsprite Niko EyesClosed>>
+I don't walk on four legs like they do...
+<<setsprite Niko Empty>> 
+[You have cat eyes.]
+<<setsprite Niko Neutral>> 
+My eyes are normal people eyes...
+<<setsprite Niko Talking>> 
+Well, normal back home!
+<<setsprite Niko Empty>> 
+[Your hat is shaped like a cat.]
+<<setsprite Niko Neutral>> 
+But I'm just a person!
+<<setsprite Niko Empty>> 
+[You are still welcome here.]
+[I protect lost people as well.]
+<<setsprite Niko Talking>> 
+Thanks! But I'm not lost though!
+<<setsprite Niko Neutral>> 
+//strUser = CreateObject("WScript.Network").UserName
+I've got << struser>>  to guide me!
+<<setsprite Niko Empty>> 
+<<else>>
+<<setsprite Niko Neutral>>
+So... where did you find all your cats?
+<<setsprite Niko Empty>>
+[They found me on their own.]
+[So I stay here now.]
+<<setsprite Niko Talking>>
+Ah...
+Well, it's good that you're not alone, at least!
+<<setsprite Niko Neutral>>
+I met some robots in the other areas stationed all by themselves...
+<<setsprite Niko EyesClosed>>
+I felt kinda... bad...
+<<setsprite Niko Em
+===

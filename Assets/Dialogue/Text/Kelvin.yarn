@@ -1,0 +1,108 @@
+title: KelvinFirstContact
+tags: 
+colorID: 0
+position: 857,430
+---
+<<if $KelvinDialogue is 0>>
+[Oh, a cat.]
+[Are you lost?]
+<<setsprite Niko Neutral>> 
+Me?
+<<setsprite Niko Empty>> 
+[Do you wish to join us?]
+<<setsprite Niko Neutral>> 
+Join... your cats?
+<<setsprite Niko Empty>> 
+[Yes.]
+<<setsprite Niko Neutral>> 
+But I'm not a cat...
+<<setsprite Niko EyesClosed>>
+I don't walk on four legs like they do...
+<<setsprite Niko Empty>> 
+[You have cat eyes.]
+<<setsprite Niko Neutral>> 
+My eyes are normal people eyes...
+<<setsprite Niko Talking>> 
+Well, normal back home!
+<<setsprite Niko Empty>> 
+[Your hat is shaped like a cat.]
+<<setsprite Niko Neutral>> 
+But I'm just a person!
+<<setsprite Niko Empty>> 
+[You are still welcome here.]
+[I protect lost people as well.]
+<<setsprite Niko Talking>> 
+Thanks! But I'm not lost though!
+<<setsprite Niko Neutral>> 
+I've got User to guide me!
+<<setsprite Niko Empty>> 
+<<set $KelvinDialogue to 1 >>
+<<stop>>
+<<endif>>
+
+<<if $KelvinDialogue is 1>>
+<<setsprite Niko Neutral>>
+So... where did you find all your cats?
+<<setsprite Niko Empty>>
+[They found me on their own.]
+[So I stay here now.]
+<<setsprite Niko Talking>>
+Ah...
+Well, it's good that you're not alone, at least!
+<<setsprite Niko Neutral>>
+I met some robots in the other areas stationed all by themselves...
+<<setsprite Niko EyesClosed>>
+I felt kinda... bad...
+<<setsprite Niko Empty>>
+[With robots, it is alright.]
+[We are not like people, we are typically unable to feel loneliness.]
+<<setsprite Niko Neutral>>
+Right...
+<<setsprite Niko Talking>>
+Well, you talk less like a robot than most other robots I've met!
+<<setsprite Niko Empty>>
+[Maybe.]
+[Not many people frequent this part of the alley, but there are a few.]
+[One of them even lives here.]
+<<setsprite Niko Neutral>>
+I see...
+<<setsprite Niko Empty>>
+<<set $KelvinDialogue to 2>>
+<<stop>>
+<<endif>>
+
+<<if $KelvinDialogue is 2>>
+<<setsprite Niko Talking>>
+It's warm here!
+<<setsprite Niko Empty>>
+[Yeah]
+[This was my original purpose.]
+<<setsprite Niko Talking>>
+...watching cats?
+<<setsprite Niko Empty>>
+[Warmth]
+<<setsprite Niko Neutral>>
+Oooh!
+<<setsprite Niko Talking>>
+It's a nice purpose!.....
+...yawn...
+<<setsprite Niko Empty>>
+[Oh, you look tired.]
+[Do you wish to rest?]
+<<setsprite Niko Talking>>
+I can't sleep now! Player and I got stuff to do!
+<<setsprite Niko Empty>>
+[I see.]
+<<set $KelvinDialogue to 3>>
+<<stop>>
+<<endif>>
+
+<<if $KelvinDialogue is 3>>
+[You have been here for a while...]
+[Are you sure you do not wish to stay?]
+<<setsprite Niko Talking>>
+I'm good, thanks for offering though!
+<<setsprite Niko Empty>>
+<<stop>>
+<<endif>>
+===

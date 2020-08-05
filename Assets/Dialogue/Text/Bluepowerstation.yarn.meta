@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 019e2d93c6cc987438ea88b9d5d3a4b8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - Bluepowerstation-BigMachine-0
+  - Bluepowerstation-BigMachine-1
+  - Bluepowerstation-BigMachine-2
+  - Bluepowerstation-BigMachine-3
+  - Bluepowerstation-SmallMachine-4
+  - Bluepowerstation-SmallMachine-5
+  - Bluepowerstation-SmallMachine-6
+  - Bluepowerstation-SmallMachine-7
+  - Bluepowerstation-SmallMachine-8
+  - Bluepowerstation-SmallMachine-9
+  - Bluepowerstation-SmallMachine-10
+  - Bluepowerstation-SmallMachine-11
+  - Bluepowerstation-SmallMachine-12
+  - Bluepowerstation-SmallMachine-13
+  - Bluepowerstation-SmallMachine-14
+  - Bluepowerstation-Phosphor-15
+  - Bluepowerstation-Bookshelf-16
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 019e2d93c6cc987438ea88b9d5d3a4b8,
+    type: 3}
+  localizations: []
