@@ -13,25 +13,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-08-06T23:14:56.693-07:00
-  initializedAtString: 2020-08-06T21:34:36.896-07:00
+  lastUpdatedAtString: 2020-08-22T11:42:37.192-07:00
+  initializedAtString: 2020-08-22T10:15:22.834-07:00
   entries:
-  - path: Assets\Maps\Opening Room\SceneSettings Profile.asset
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Maps\Opening Room\SceneSettings
-      Profile.asset
-    projectPath: Assets\Maps\Opening Room\SceneSettings Profile.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Maps\Study.unity
     fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Maps\Study.unity
     projectPath: Assets\Maps\Study.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Maps\Study\LightingData.asset
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Maps\Study\LightingData.asset
-    projectPath: Assets\Maps\Study\LightingData.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -41,124 +28,159 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Models\Study\authors_table.mtl
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\authors_table.mtl
-    projectPath: Assets\Models\Study\authors_table.mtl
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Models\Study\authors_table.mtl.meta
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\authors_table.mtl.meta
-    projectPath: Assets\Models\Study\authors_table.mtl.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Models\Study\authors_table.obj
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\authors_table.obj
-    projectPath: Assets\Models\Study\authors_table.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Models\Study\authors_table.obj.meta
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\authors_table.obj.meta
-    projectPath: Assets\Models\Study\authors_table.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Models\Study\authors_table.png
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\authors_table.png
-    projectPath: Assets\Models\Study\authors_table.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Models\Study\authors_table.png.meta
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\authors_table.png.meta
-    projectPath: Assets\Models\Study\authors_table.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Assets\Models\Study\BluePrint.mat
     fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\BluePrint.mat
     projectPath: Assets\Models\Study\BluePrint.mat
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Assets\Models\Study\BluePrint.mat.meta
     fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\BluePrint.mat.meta
     projectPath: Assets\Models\Study\BluePrint.mat.meta
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Models\Study\Blueprint.obj
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Blueprint.obj
-    projectPath: Assets\Models\Study\Blueprint.obj
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Models\Study\Blueprint.obj.meta
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Blueprint.obj.meta
-    projectPath: Assets\Models\Study\Blueprint.obj.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Models\Study\Blueprint.png
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Blueprint.png
-    projectPath: Assets\Models\Study\Blueprint.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Models\Study\Blueprint.png.meta
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Blueprint.png.meta
-    projectPath: Assets\Models\Study\Blueprint.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Models\Study\CouchnCabinet-0.obj
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\CouchnCabinet-0.obj
-    projectPath: Assets\Models\Study\CouchnCabinet-0.obj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Models\Study\CouchnCabinet-1-study - Copy (4).obj
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\CouchnCabinet-1-study
-      - Copy (4).obj
-    projectPath: Assets\Models\Study\CouchnCabinet-1-study - Copy (4).obj
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Assets\Models\Study\glass.mat
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\glass.mat
-    projectPath: Assets\Models\Study\glass.mat
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Assets\Models\Study\glass.mat.meta
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\glass.mat.meta
-    projectPath: Assets\Models\Study\glass.mat.meta
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Assets\Models\Study\Materials\glass.mat
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Materials\glass.mat
-    projectPath: Assets\Models\Study\Materials\glass.mat
+  - path: Assets\Models\Study\coat hanger.obj
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\coat hanger.obj
+    projectPath: Assets\Models\Study\coat hanger.obj
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Models\Study\Materials\glass.mat.meta
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Materials\glass.mat.meta
-    projectPath: Assets\Models\Study\Materials\glass.mat.meta
+  - path: Assets\Models\Study\coat hanger.obj.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\coat hanger.obj.meta
+    projectPath: Assets\Models\Study\coat hanger.obj.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Models\Study\Materials\Study-Table.mat
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Materials\Study-Table.mat
-    projectPath: Assets\Models\Study\Materials\Study-Table.mat
+  - path: Assets\Models\Study\coat hanger.png
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\coat hanger.png
+    projectPath: Assets\Models\Study\coat hanger.png
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Models\Study\Materials\Study-Table.mat.meta
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Materials\Study-Table.mat.meta
-    projectPath: Assets\Models\Study\Materials\Study-Table.mat.meta
+  - path: Assets\Models\Study\coat hanger.png.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\coat hanger.png.meta
+    projectPath: Assets\Models\Study\coat hanger.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\coffee table 1.obj
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\coffee table 1.obj
+    projectPath: Assets\Models\Study\coffee table 1.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\coffee table 1.obj.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\coffee table 1.obj.meta
+    projectPath: Assets\Models\Study\coffee table 1.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\coffee table.png
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\coffee table.png
+    projectPath: Assets\Models\Study\coffee table.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\coffee table.png.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\coffee table.png.meta
+    projectPath: Assets\Models\Study\coffee table.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\Materials\BluePrint.mat
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Materials\BluePrint.mat
+    projectPath: Assets\Models\Study\Materials\BluePrint.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\Materials\BluePrint.mat.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Materials\BluePrint.mat.meta
+    projectPath: Assets\Models\Study\Materials\BluePrint.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\Materials\CoffeeTable.mat
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Materials\CoffeeTable.mat
+    projectPath: Assets\Models\Study\Materials\CoffeeTable.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\Materials\CoffeeTable.mat.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Materials\CoffeeTable.mat.meta
+    projectPath: Assets\Models\Study\Materials\CoffeeTable.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\Materials\Screens.mat
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Materials\Screens.mat
+    projectPath: Assets\Models\Study\Materials\Screens.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\Materials\Screens.mat.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\Materials\Screens.mat.meta
+    projectPath: Assets\Models\Study\Materials\Screens.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\STUDY-0-right.obj
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\STUDY-0-right.obj
+    projectPath: Assets\Models\Study\STUDY-0-right.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\STUDY-0-right.obj.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\STUDY-0-right.obj.meta
+    projectPath: Assets\Models\Study\STUDY-0-right.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\STUDY-1-middle.obj
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\STUDY-1-middle.obj
+    projectPath: Assets\Models\Study\STUDY-1-middle.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\STUDY-1-middle.obj.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\STUDY-1-middle.obj.meta
+    projectPath: Assets\Models\Study\STUDY-1-middle.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\STUDY-1-middle.png
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\STUDY-1-middle.png
+    projectPath: Assets\Models\Study\STUDY-1-middle.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\STUDY-1-middle.png.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\STUDY-1-middle.png.meta
+    projectPath: Assets\Models\Study\STUDY-1-middle.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\STUDY-2-left - Copy.obj
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\STUDY-2-left - Copy.obj
+    projectPath: Assets\Models\Study\STUDY-2-left - Copy.obj
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\STUDY-2-left - Copy.obj.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\STUDY-2-left - Copy.obj.meta
+    projectPath: Assets\Models\Study\STUDY-2-left - Copy.obj.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\StudyEmission.png
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\StudyEmission.png
+    projectPath: Assets\Models\Study\StudyEmission.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Assets\Models\Study\StudyEmission.png.meta
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Assets\Models\Study\StudyEmission.png.meta
+    projectPath: Assets\Models\Study\StudyEmission.png.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -168,147 +190,177 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\00\00ee0e7853882225ff736f27a375e7b4
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\00\00ee0e7853882225ff736f27a375e7b4
-    projectPath: Library\Artifacts\00\00ee0e7853882225ff736f27a375e7b4
+  - path: Library\Artifacts\04\046745263e8c10f293107ef1dbc1603b
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\04\046745263e8c10f293107ef1dbc1603b
+    projectPath: Library\Artifacts\04\046745263e8c10f293107ef1dbc1603b
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\08\0814e2ee9cc56b3842c7196eb431210f
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\08\0814e2ee9cc56b3842c7196eb431210f
-    projectPath: Library\Artifacts\08\0814e2ee9cc56b3842c7196eb431210f
+  - path: Library\Artifacts\16\167469bb5812c11e542b11d45255858c
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\16\167469bb5812c11e542b11d45255858c
+    projectPath: Library\Artifacts\16\167469bb5812c11e542b11d45255858c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\16\16df2f173c20431bc6ee8c80f660c3c4
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\16\16df2f173c20431bc6ee8c80f660c3c4
-    projectPath: Library\Artifacts\16\16df2f173c20431bc6ee8c80f660c3c4
+  - path: Library\Artifacts\2b\2bc81851d1643fef2c0b0cee0f5a0ca2
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\2b\2bc81851d1643fef2c0b0cee0f5a0ca2
+    projectPath: Library\Artifacts\2b\2bc81851d1643fef2c0b0cee0f5a0ca2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\2e\2e14c9f9ed036da6ea6f69faca4909ad
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\2e\2e14c9f9ed036da6ea6f69faca4909ad
-    projectPath: Library\Artifacts\2e\2e14c9f9ed036da6ea6f69faca4909ad
+  - path: Library\Artifacts\3f\3fe341c89e4e4ae1d3d4034c5209687a
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\3f\3fe341c89e4e4ae1d3d4034c5209687a
+    projectPath: Library\Artifacts\3f\3fe341c89e4e4ae1d3d4034c5209687a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\3c\3c7ec03577d64146ccb5f90138ee3bea
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\3c\3c7ec03577d64146ccb5f90138ee3bea
-    projectPath: Library\Artifacts\3c\3c7ec03577d64146ccb5f90138ee3bea
+  - path: Library\Artifacts\49\49584ab306cbfe11189ea438ad70e33b
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\49\49584ab306cbfe11189ea438ad70e33b
+    projectPath: Library\Artifacts\49\49584ab306cbfe11189ea438ad70e33b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\42\427a7e6fab4e6a7f432c5b06bbce7c1a
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\42\427a7e6fab4e6a7f432c5b06bbce7c1a
-    projectPath: Library\Artifacts\42\427a7e6fab4e6a7f432c5b06bbce7c1a
+  - path: Library\Artifacts\55\55d2a06479fabb4202e7e6c6947a7129
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\55\55d2a06479fabb4202e7e6c6947a7129
+    projectPath: Library\Artifacts\55\55d2a06479fabb4202e7e6c6947a7129
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\4e\4e3c803db89c8da239e5dfcf1ca18885
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\4e\4e3c803db89c8da239e5dfcf1ca18885
-    projectPath: Library\Artifacts\4e\4e3c803db89c8da239e5dfcf1ca18885
+  - path: Library\Artifacts\57\574d52e3ad86d8d5ce7969eca598987c
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\57\574d52e3ad86d8d5ce7969eca598987c
+    projectPath: Library\Artifacts\57\574d52e3ad86d8d5ce7969eca598987c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\65\6549aad573ba64f6c8fb540c1eea24b0
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\65\6549aad573ba64f6c8fb540c1eea24b0
-    projectPath: Library\Artifacts\65\6549aad573ba64f6c8fb540c1eea24b0
+  - path: Library\Artifacts\60\6058442e1539beb5c4a3d96ca0197c14
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\60\6058442e1539beb5c4a3d96ca0197c14
+    projectPath: Library\Artifacts\60\6058442e1539beb5c4a3d96ca0197c14
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\65\65da70ab807bc894c80e61300e3ae890
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\65\65da70ab807bc894c80e61300e3ae890
-    projectPath: Library\Artifacts\65\65da70ab807bc894c80e61300e3ae890
+  - path: Library\Artifacts\64\647626b20a880c217078ea883e42f917
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\64\647626b20a880c217078ea883e42f917
+    projectPath: Library\Artifacts\64\647626b20a880c217078ea883e42f917
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\67\67f1d83126385a74c053665555790523
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\67\67f1d83126385a74c053665555790523
+    projectPath: Library\Artifacts\67\67f1d83126385a74c053665555790523
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\71\7148a1e09f98658b16d7987c299d3e09
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\71\7148a1e09f98658b16d7987c299d3e09
+    projectPath: Library\Artifacts\71\7148a1e09f98658b16d7987c299d3e09
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\7470665716e5f59606ebf7f15dacdd6c
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\74\7470665716e5f59606ebf7f15dacdd6c
+    projectPath: Library\Artifacts\74\7470665716e5f59606ebf7f15dacdd6c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\74\748e16d48e9ee5b30070d65ffeeae81f
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\74\748e16d48e9ee5b30070d65ffeeae81f
+    projectPath: Library\Artifacts\74\748e16d48e9ee5b30070d65ffeeae81f
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\7d\7d62cdbf75b1e6a3e77bc848a2ba650d
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\7d\7d62cdbf75b1e6a3e77bc848a2ba650d
-    projectPath: Library\Artifacts\7d\7d62cdbf75b1e6a3e77bc848a2ba650d
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Artifacts\80\803ef548f77c648ea33ac66f451bd366
     fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\80\803ef548f77c648ea33ac66f451bd366
     projectPath: Library\Artifacts\80\803ef548f77c648ea33ac66f451bd366
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\81\81f2a535f30cca6de7f4142fb8f21483
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\81\81f2a535f30cca6de7f4142fb8f21483
-    projectPath: Library\Artifacts\81\81f2a535f30cca6de7f4142fb8f21483
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Library\Artifacts\8c\8c29a06d67d3dea825364e04d51c7c5d
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\8c\8c29a06d67d3dea825364e04d51c7c5d
+    projectPath: Library\Artifacts\8c\8c29a06d67d3dea825364e04d51c7c5d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\90\90169b5046595e74872140798d441fe5
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\90\90169b5046595e74872140798d441fe5
-    projectPath: Library\Artifacts\90\90169b5046595e74872140798d441fe5
+  - path: Library\Artifacts\99\9953eb8ed4f09581cd2e7c8f288ba0ca
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\99\9953eb8ed4f09581cd2e7c8f288ba0ca
+    projectPath: Library\Artifacts\99\9953eb8ed4f09581cd2e7c8f288ba0ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a3\a3042a770d7f8f798657a6cc593d61e0
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\a3\a3042a770d7f8f798657a6cc593d61e0
+    projectPath: Library\Artifacts\a3\a3042a770d7f8f798657a6cc593d61e0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a4\a43ed04799cf0c2233a38a7a4f83fa4d
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\a4\a43ed04799cf0c2233a38a7a4f83fa4d
+    projectPath: Library\Artifacts\a4\a43ed04799cf0c2233a38a7a4f83fa4d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a6\a602e4e304d0c56fd10c0e35f01f2df2
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\a6\a602e4e304d0c56fd10c0e35f01f2df2
+    projectPath: Library\Artifacts\a6\a602e4e304d0c56fd10c0e35f01f2df2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Library\Artifacts\a8\a84cde72f22d13d5cca70f786045f06e
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\a8\a84cde72f22d13d5cca70f786045f06e
+    projectPath: Library\Artifacts\a8\a84cde72f22d13d5cca70f786045f06e
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\94\9471cce23c2e0d8fe09cbdc89ccc5536
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\94\9471cce23c2e0d8fe09cbdc89ccc5536
-    projectPath: Library\Artifacts\94\9471cce23c2e0d8fe09cbdc89ccc5536
+  - path: Library\Artifacts\ab\ab71b0aa86d2fe177d23ce69a00829fe
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\ab\ab71b0aa86d2fe177d23ce69a00829fe
+    projectPath: Library\Artifacts\ab\ab71b0aa86d2fe177d23ce69a00829fe
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\97\979deb7296a93b0d171768ac7d51325b
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\97\979deb7296a93b0d171768ac7d51325b
-    projectPath: Library\Artifacts\97\979deb7296a93b0d171768ac7d51325b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\9b\9b628014f9649c3c165dc52dc77a9213
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\9b\9b628014f9649c3c165dc52dc77a9213
-    projectPath: Library\Artifacts\9b\9b628014f9649c3c165dc52dc77a9213
+  - path: Library\Artifacts\bb\bb4330ce78f8062096c63b098217ecbd
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\bb\bb4330ce78f8062096c63b098217ecbd
+    projectPath: Library\Artifacts\bb\bb4330ce78f8062096c63b098217ecbd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\b1\b1fd073adcd2d5f2fa02ad32e5fd0808
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\b1\b1fd073adcd2d5f2fa02ad32e5fd0808
-    projectPath: Library\Artifacts\b1\b1fd073adcd2d5f2fa02ad32e5fd0808
+  - path: Library\Artifacts\c1\c11b3cdbc65788c7ad0152435591a320
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\c1\c11b3cdbc65788c7ad0152435591a320
+    projectPath: Library\Artifacts\c1\c11b3cdbc65788c7ad0152435591a320
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\c0\c0de9e4b45996fd812456b291fb77162
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\c0\c0de9e4b45996fd812456b291fb77162
-    projectPath: Library\Artifacts\c0\c0de9e4b45996fd812456b291fb77162
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\cb\cb4338e78083171405711b5ed5cb597f
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\cb\cb4338e78083171405711b5ed5cb597f
-    projectPath: Library\Artifacts\cb\cb4338e78083171405711b5ed5cb597f
+  - path: Library\Artifacts\d8\d8773ca8a09364224bdd0344c5a953b7
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\d8\d8773ca8a09364224bdd0344c5a953b7
+    projectPath: Library\Artifacts\d8\d8773ca8a09364224bdd0344c5a953b7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\d4\d41a1c4f094f54f674f10642e9982635
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\d4\d41a1c4f094f54f674f10642e9982635
-    projectPath: Library\Artifacts\d4\d41a1c4f094f54f674f10642e9982635
+  - path: Library\Artifacts\da\da54e49e9d58ce46b1e81828d71f013f
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\da\da54e49e9d58ce46b1e81828d71f013f
+    projectPath: Library\Artifacts\da\da54e49e9d58ce46b1e81828d71f013f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\dc\dc3b48ced72dc7b8114f787618f51161
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\dc\dc3b48ced72dc7b8114f787618f51161
-    projectPath: Library\Artifacts\dc\dc3b48ced72dc7b8114f787618f51161
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e6\e630741556a4dc0f213411f58feb510a
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\e6\e630741556a4dc0f213411f58feb510a
-    projectPath: Library\Artifacts\e6\e630741556a4dc0f213411f58feb510a
+  - path: Library\Artifacts\f1\f1c8038376b69bf8a3184a71497ccdf5
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\f1\f1c8038376b69bf8a3184a71497ccdf5
+    projectPath: Library\Artifacts\f1\f1c8038376b69bf8a3184a71497ccdf5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\ea\ea37fdd203c321d7ce8285b9c090f325
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\ea\ea37fdd203c321d7ce8285b9c090f325
-    projectPath: Library\Artifacts\ea\ea37fdd203c321d7ce8285b9c090f325
+  - path: Library\Artifacts\f5\f518725067a33c4b2c7d28670447bad4
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Artifacts\f5\f518725067a33c4b2c7d28670447bad4
+    projectPath: Library\Artifacts\f5\f518725067a33c4b2c7d28670447bad4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: Library\Collab\CollabSnapshot_ed33ef79-92c0-42b2-a614-25baa01488e8.txt
     fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\Collab\CollabSnapshot_ed33ef79-92c0-42b2-a614-25baa01488e8.txt
     projectPath: Library\Collab\CollabSnapshot_ed33ef79-92c0-42b2-a614-25baa01488e8.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -354,21 +406,27 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: Library\SceneVisibilityState.asset
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\ShaderCache.db
     fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\ShaderCache.db
     projectPath: Library\ShaderCache.db
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\8\866c85279c57eec34c9249dcc988244f.bin
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\ShaderCache\8\866c85279c57eec34c9249dcc988244f.bin
-    projectPath: Library\ShaderCache\8\866c85279c57eec34c9249dcc988244f.bin
+  - path: Library\ShaderCache\7\75527f6e765c8a2aaf4a11855526c449.bin
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\ShaderCache\7\75527f6e765c8a2aaf4a11855526c449.bin
+    projectPath: Library\ShaderCache\7\75527f6e765c8a2aaf4a11855526c449.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\ShaderCache\c\cd6d555fff088a2ce4aff134a501fe31.bin
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\ShaderCache\c\cd6d555fff088a2ce4aff134a501fe31.bin
-    projectPath: Library\ShaderCache\c\cd6d555fff088a2ce4aff134a501fe31.bin
+  - path: Library\ShaderCache\b\be42cc28a32306f08e5a225bb2b2b504.bin
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\ShaderCache\b\be42cc28a32306f08e5a225bb2b2b504.bin
+    projectPath: Library\ShaderCache\b\be42cc28a32306f08e5a225bb2b2b504.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -381,72 +439,6 @@ MonoBehaviour:
   - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe1.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe10.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe10.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe11.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe11.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe2.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe3.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe4.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe5.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe6.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe7.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe8.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe8.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\shadercompiler-UnityShaderCompiler.exe9.log
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Library\shadercompiler-UnityShaderCompiler.exe9.log
-    projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -474,45 +466,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\ProcessJobs\0426fec442ec07b49c4d4a4606f97ce5.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\0426fec442ec07b49c4d4a4606f97ce5.bakert
-    projectPath: Temp\ProcessJobs\0426fec442ec07b49c4d4a4606f97ce5.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\1893e5a71970b6e072898bf8ff061c8d.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\1893e5a71970b6e072898bf8ff061c8d.bakert
-    projectPath: Temp\ProcessJobs\1893e5a71970b6e072898bf8ff061c8d.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\2815dca6e9144d85942adb09c67d3590.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\2815dca6e9144d85942adb09c67d3590.bakert
-    projectPath: Temp\ProcessJobs\2815dca6e9144d85942adb09c67d3590.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\324eba149e0561fa78f6a3c618747557.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\324eba149e0561fa78f6a3c618747557.bakert
-    projectPath: Temp\ProcessJobs\324eba149e0561fa78f6a3c618747557.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\36610d9d4c29b6998fa48758e7bc42bd.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\36610d9d4c29b6998fa48758e7bc42bd.bakert
-    projectPath: Temp\ProcessJobs\36610d9d4c29b6998fa48758e7bc42bd.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\3d0ede242406c8f9d2dd93bcc0f9e559.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\3d0ede242406c8f9d2dd93bcc0f9e559.bakert
-    projectPath: Temp\ProcessJobs\3d0ede242406c8f9d2dd93bcc0f9e559.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\60ee7997a6c5efda77350b26f3c82f38.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\60ee7997a6c5efda77350b26f3c82f38.bakert
-    projectPath: Temp\ProcessJobs\60ee7997a6c5efda77350b26f3c82f38.bakert
+  - path: Temp\ProcessJobs\2b7c9faad639529468ccc43d87eb229c.bakert
+    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\2b7c9faad639529468ccc43d87eb229c.bakert
+    projectPath: Temp\ProcessJobs\2b7c9faad639529468ccc43d87eb229c.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -522,87 +478,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\ProcessJobs\6c1777bc80f492c1eb0cb989d3cf8095.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\6c1777bc80f492c1eb0cb989d3cf8095.bakert
-    projectPath: Temp\ProcessJobs\6c1777bc80f492c1eb0cb989d3cf8095.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\868e1971c54e11168cbf92d57fe1bc72.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\868e1971c54e11168cbf92d57fe1bc72.bakert
-    projectPath: Temp\ProcessJobs\868e1971c54e11168cbf92d57fe1bc72.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\96e0d71ce9f82ae8ee35ef9ca92745ab.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\96e0d71ce9f82ae8ee35ef9ca92745ab.bakert
-    projectPath: Temp\ProcessJobs\96e0d71ce9f82ae8ee35ef9ca92745ab.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\b72ccb20f8bcf7e6d3d42db9118f6208.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\b72ccb20f8bcf7e6d3d42db9118f6208.bakert
-    projectPath: Temp\ProcessJobs\b72ccb20f8bcf7e6d3d42db9118f6208.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Temp\ProcessJobs\bee3fb0ca5efd41a8fe50ad7f3b62e78.bakert
     fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\bee3fb0ca5efd41a8fe50ad7f3b62e78.bakert
     projectPath: Temp\ProcessJobs\bee3fb0ca5efd41a8fe50ad7f3b62e78.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\d31865bdff5a6d9d2a824b12090a73e5.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\d31865bdff5a6d9d2a824b12090a73e5.bakert
-    projectPath: Temp\ProcessJobs\d31865bdff5a6d9d2a824b12090a73e5.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\dd6cf4f61c19e2e3ed35b112e130c819.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\dd6cf4f61c19e2e3ed35b112e130c819.bakert
-    projectPath: Temp\ProcessJobs\dd6cf4f61c19e2e3ed35b112e130c819.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\e1fb0a84b837cacc884450f512f7c573.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\e1fb0a84b837cacc884450f512f7c573.bakert
-    projectPath: Temp\ProcessJobs\e1fb0a84b837cacc884450f512f7c573.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\e4c1ee0da7836b901f3575f18cc3fafe.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\e4c1ee0da7836b901f3575f18cc3fafe.bakert
-    projectPath: Temp\ProcessJobs\e4c1ee0da7836b901f3575f18cc3fafe.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\efff151cbc5a88d2aeba640d717b7360.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\efff151cbc5a88d2aeba640d717b7360.bakert
-    projectPath: Temp\ProcessJobs\efff151cbc5a88d2aeba640d717b7360.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\f234a4ebc18f2fbe3f7aba33d0c65edc.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\f234a4ebc18f2fbe3f7aba33d0c65edc.bakert
-    projectPath: Temp\ProcessJobs\f234a4ebc18f2fbe3f7aba33d0c65edc.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\f37f0fda35dea3c156b1246b789d79d4.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\f37f0fda35dea3c156b1246b789d79d4.bakert
-    projectPath: Temp\ProcessJobs\f37f0fda35dea3c156b1246b789d79d4.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\f54f0cc8e62209f0368fda7121a483a4.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\f54f0cc8e62209f0368fda7121a483a4.bakert
-    projectPath: Temp\ProcessJobs\f54f0cc8e62209f0368fda7121a483a4.bakert
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\ProcessJobs\f78c82be5a05af07bc9ec4a6bc016a86.bakert
-    fullPath: C:\Users\badid\Os3d\Oneshot3d\Temp\ProcessJobs\f78c82be5a05af07bc9ec4a6bc016a86.bakert
-    projectPath: Temp\ProcessJobs\f78c82be5a05af07bc9ec4a6bc016a86.bakert
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
