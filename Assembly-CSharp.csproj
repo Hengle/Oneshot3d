@@ -736,7 +736,12 @@
       <HintPath>C:/Users/badid/Os3d/Oneshot3d/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
-  <ItemGroup></ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="AmplifyShaderEditor.csproj">
+      <Project>{C4B1CFDC-E863-9B5D-157E-0A2CD939C00D}</Project>
+      <Name>AmplifyShaderEditor</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
