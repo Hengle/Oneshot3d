@@ -13,14 +13,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-08-22T11:49:50.817-07:00
-  initializedAtString: 2020-08-22T11:49:50.779-07:00
-  localBranches:
-  - name: master
-    tracking: origin/master
-  remoteBranches:
-  - name: origin/master
-    tracking: '[None]'
+  lastUpdatedAtString: 2020-08-22T17:26:43.505-07:00
+  initializedAtString: 2020-08-22T17:26:43.446-07:00
+  localBranches: []
+  remoteBranches: []
   remotes:
   - name: origin
     url: https://github.com/Astrabit-ST/Oneshot3d.git
@@ -30,27 +26,15 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - master
-    values:
-    - name: master
-      remote:
-        name: origin
-        url: https://github.com/Astrabit-ST/Oneshot3d.git
-      trackingBranch: master
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
-    - Values:
-      - master
+    - Values: []
     subKeyValues:
-    - Values:
-      - name: master
-        remote:
-          name: origin
-          url: https://github.com/Astrabit-ST/Oneshot3d.git
-        trackingBranch: 
+    - Values: []
   configRemotes:
     keys:
     - origin
