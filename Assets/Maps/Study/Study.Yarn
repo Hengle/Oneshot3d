@@ -1,0 +1,252 @@
+title: Bulletin
+tags: 
+colorID: 0
+position: 377,226
+---
+<<setsprite Niko Neutral>> 
+A bulletin board with lots of papers on it.
+<<setsprite Niko Empty>>
+===
+title: BookShelf
+tags: 
+colorID: 0
+position: 105,231
+---
+<<setsprite Niko Neutral>> 
+It's a shelf full of books
+<<setsprite Niko Empty>>
+===
+title: teaset
+tags: 
+colorID: 0
+position: 105,-15
+---
+<<setsprite Niko Neutral>> 
+It's a tea set.
+<<setsprite Niko Empty>>
+<<setsprite npc cedric_hmm>> 
+Tea DOES sound really nice right now...
+<<setsprite npc cedric_sigh>>
+Too bad there's no water in here...
+<< setprite npc Empty>>
+===
+title: Clovercase
+tags: 
+colorID: 0
+position: 381,-17
+---
+<<setsprite Niko Neutral>> 
+Black clovers in a glass case.
+<<setsprite Niko Empty>>
+===
+title: Bookshelf
+tags: 
+colorID: 0
+position: 686,-2
+---
+<<setsprite Niko Neutral>> 
+It's a big book on the table.
+<<setsprite Niko Empty>>
+===
+title: Helmet
+tags: 
+colorID: 0
+position: 667,219
+---
+<<setsprite Niko Neutral>> 
+It's a pilot's helmet.
+<<setsprite Niko Empty>>
+===
+title: Door?
+tags: 
+colorID: 0
+position: -139,-16
+---
+<<setsprite Niko concerned>>
+The door is... gone?
+<<setsprite Niko Empty>> 
+<<setsprite npc proto2b>>
+[Well, the door does not exist without us there.]
+<<setsprite npc Empty>> 
+<<setsprite Niko EyesClosed>>
+Guess I can't go back out, huh...
+<<setsprite Niko Empty>> 
+<<setsprite npc proto2>> 
+[...Do you need to?]
+<<setsprite npc Empty>> 
+<<setsprite Niko EyesClosed>>
+...not really.
+<<setsprite Niko Empty>>
+===
+title: Door
+tags: 
+colorID: 0
+position: -146,218
+---
+<<setsprite Niko Neutral>> 
+The door is gone.
+<<setsprite Niko Empty>>
+===
+title: Blueprint?
+tags: 
+colorID: 0
+position: -365,-14
+---
+<<setsprite Niko Neutral>> 
+A big, detailed drawing of a machine with lots of tv screens.
+<<setsprite Niko Empty>> 
+<<setsprite npc proto2b>> 
+[...That's called a blueprint, Niko.]
+<<setsprite npc Empty>> 
+<<setsprite Niko Niko_pancakes>> 
+...So THAT's what a blueprint is!
+<<setsprite Niko Empty>>
+===
+title: Blueprint
+tags: 
+colorID: 0
+position: -369,208
+---
+<<setsprite Niko speak>> 
+It's a blueprint!
+<<setsprite Niko Empty>>
+===
+title: Watercolor
+tags: 
+colorID: 0
+position: -622,204
+---
+<<setsprite Niko speak>> 
+They're watercolor sticks!
+<<setsprite Niko Empty>>
+===
+title: Node
+tags: 
+colorID: 0
+position: -624,-15
+---
+<<setsprite Niko netural>> 
+It's a piece of amber on a string.
+<<setsprite Niko EyesClosed>> 
+Looks just like that necklace the robot lady showed me...
+<<setsprite Niko Empty>>
+===
+title: CoatRack
+tags: 
+colorID: 0
+position: -850,-28
+---
+<<setsprite Niko Neutral>> 
+A coat rack with a scarf and a big jacket.
+<<setsprite Niko Empty>>
+===
+title: Rue
+tags: 
+colorID: 0
+position: -853,201
+---
+<<setsprite npc rueSpeak>> 
+The room ahead doesn't really lead anywhere, but...
+<<setsprite npc rue>> 
+Player should still remember what to do here.
+<<setsprite npc Empty>>
+===
+title: Cedric1
+tags: 
+colorID: 0
+position: -1085,-28
+---
+<<setsprite npc cedric>> 
+This is my father's study.
+<<setsprite npc cedricsigh>> 
+It feels like... he's still here, doesn't it?
+<<setsprite npc cedricsigh>> 
+...like he's still with us.
+<<setsprite npc ruesad>> 
+...Yeah.
+<<setsprite npc proto2b>>
+[...]
+<<setsprite npc Empty>>
+===
+title: Cedric2
+tags: 
+colorID: 0
+position: -1081,203
+---
+<<setsprite npc cedricsigh>> 
+Of course, this is just a copy of it...
+<<setsprite npc Empty>>
+===
+title: Proto
+tags: 
+colorID: 0
+position: -1312,-25
+---
+<<setsprite npc proto2b>> 
+[...]
+[...This place contains a lot of memories.] 
+<<setsprite npc protoEyesClosed>> 
+[I am... grateful, to see it again.]
+<<setsprite npc Empty>>
+===
+title: Books
+tags: 
+colorID: 0
+position: -1318,212
+---
+<<setsprite Niko Neutral>> 
+It's a stack of books.
+<<setsprite Niko Empty>>
+===
+title: Bull1
+tags: 
+colorID: 0
+position: -1569,-29
+---
+<<setsprite Niko Neutral>> 
+A bulletin board with lots of papers on it.
+<<setsprite Niko Talking>>
+Photos too!
+<<setsprite Niko Empty>>
+===
+title: bull2
+tags: 
+colorID: 0
+position: -1565,205
+---
+<<setsprite Niko Neutral>> 
+A bulletin board with lots of papers on it.
+A scribbly drawing is pinned up here.
+<<setsprite Niko Empty>>
+===
+title: Painting
+tags: 
+colorID: 0
+position: -1786,-35
+---
+<<setsprite Niko Neutral>> 
+It's a big photo.
+<<setsprite Niko concerned>>
+Wait, no... it's a painting!
+<<setsprite Niko EyesClosed>>
+Hard to tell at first...
+<<setsprite Niko Empty>>
+===
+title: Folders
+tags: 
+colorID: 0
+position: -1779,196
+---
+<<setsprite Niko Neutral>> 
+A box filled with folders and loose paper.
+<<setsprite Niko Empty>>
+===
+title: Sketchbooks
+tags: 
+colorID: 0
+position: -2004,185
+---
+<<setsprite Niko Neutral>> 
+A box full of notebooks and sketchbooks.
+<<setsprite Niko Empty>>
+===

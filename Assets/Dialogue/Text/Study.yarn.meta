@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: 19c33b5ef5925924d8b8899556968889
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  baseLanguageID: en-US
+  stringIDs:
+  - Kelvin-KelvinFirstContact-0
+  - Kelvin-KelvinFirstContact-1
+  - Kelvin-KelvinFirstContact-2
+  - Kelvin-KelvinFirstContact-3
+  - Kelvin-KelvinFirstContact-4
+  - Kelvin-KelvinFirstContact-5
+  - Kelvin-KelvinFirstContact-6
+  - Kelvin-KelvinFirstContact-7
+  - Kelvin-KelvinFirstContact-8
+  - Kelvin-KelvinFirstContact-9
+  - Kelvin-KelvinFirstContact-10
+  - Kelvin-KelvinFirstContact-11
+  - Kelvin-KelvinFirstContact-12
+  - Kelvin-KelvinFirstContact-13
+  - Kelvin-KelvinFirstContact-14
+  - Kelvin-KelvinFirstContact-15
+  - Kelvin-KelvinFirstContact-16
+  compilationStatus: 1
+  isSuccesfullyCompiled: 1
+  compilationErrorMessage: 
+  baseLanguage: {fileID: 7128917941130120860, guid: 4a320906e891fd94a9f31e3ee711f1d0,
+    type: 3}
+  localizations: []
