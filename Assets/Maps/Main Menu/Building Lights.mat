@@ -9,14 +9,13 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Building Lights
   m_Shader: {fileID: 4800000, guid: 7b0a6aad9ec83c744a21677e1c513867, type: 3}
-  m_ShaderKeywords: _ALPHATEST_ON _NORMALMAP_TANGENT_SPACE
+  m_ShaderKeywords: _NORMALMAP_TANGENT_SPACE
   m_LightmapFlags: 2
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
-  m_CustomRenderQueue: 2450
+  m_CustomRenderQueue: 2000
   stringTagMap:
     MotionVector: User
-    RenderType: TransparentCutout
   disabledShaderPasses:
   - DistortionVectors
   - TransparentBackface
@@ -121,7 +120,7 @@ Material:
     - _AddPrecomputedVelocity: 0
     - _AlbedoAffectEmissive: 0
     - _AlphaCutoff: 0.5
-    - _AlphaCutoffEnable: 1
+    - _AlphaCutoffEnable: 0
     - _AlphaCutoffPostpass: 0.5
     - _AlphaCutoffPrepass: 0.5
     - _AlphaCutoffShadow: 0.5
@@ -169,6 +168,7 @@ Material:
     - _EnableFogOnTransparent: 1
     - _EnableGeometricSpecularAA: 0
     - _EnergyConservingSpecularColor: 1
+    - _Float1: 0.8
     - _HeightAmplitude: 0.02
     - _HeightCenter: 0.5
     - _HeightMapParametrization: 0
@@ -240,7 +240,7 @@ Material:
     - _WindowStrength: 0.33
     - _WindowsLit: 0.9
     - _ZTestDepthEqualForOpaque: 3
-    - _ZTestGBuffer: 3
+    - _ZTestGBuffer: 4
     - _ZTestModeDistortion: 4
     - _ZTestTransparent: 4
     - _ZWrite: 1
@@ -251,7 +251,7 @@ Material:
     - _BaseColorMap_MipInfo: {r: 0, g: 0, b: 0, a: 0}
     - _Color: {r: 0.572205, g: 1, b: 0, a: 1}
     - _Color5: {r: 0.25574046, g: 0.02865789, b: 0.26415086, a: 0}
-    - _Dark: {r: 0.4415965, g: 0.019935932, b: 0.6037736, a: 0}
+    - _Dark: {r: 0.44159642, g: 0.019935932, b: 0.6037736, a: 0}
     - _DarkEmission: {r: 0, g: 0, b: 0, a: 0}
     - _DiffusionProfileAsset: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: -1, g: -1, b: -1, a: 0}
@@ -260,7 +260,7 @@ Material:
     - _EmissiveColorLDR: {r: 0, g: 0, b: 0, a: 1}
     - _InvPrimScale: {r: 1, g: 1, b: 0, a: 0}
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _Light: {r: 0.98393124, g: 0.2688679, b: 1, a: 0}
+    - _Light: {r: 0.98393124, g: 0.26886782, b: 1, a: 0}
     - _LightEmission: {r: 0.25574046, g: 0.02865789, b: 0.26415086, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
@@ -268,7 +268,7 @@ Material:
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMaskEmissive: {r: 1, g: 0, b: 0, a: 0}
-    - _WindowColor: {r: 0.7075472, g: 0.1768868, b: 0.51663893, a: 1}
+    - _WindowColor: {r: 0.7075471, g: 0.17688671, b: 0.51663893, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &3904520705368279260
 MonoBehaviour:

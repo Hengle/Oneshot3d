@@ -18,6 +18,6 @@ public class SlightCameraRotation : MonoBehaviour
         float Camerax = Mathf.Clamp((540 - Mathf.Abs(Input.mousePosition.y))*rotationscaley, -30, 30);
         float Cameray = Mathf.Clamp((960 - Mathf.Abs(Input.mousePosition.x)) * rotationscalex, -30, 30);
         this.transform.localEulerAngles = new Vector3(Camerax, Cameray, 0f);
-        Debug.Log(960 - Mathf.Abs(Input.mousePosition.x));
+
     }
 }

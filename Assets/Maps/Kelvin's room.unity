@@ -4938,6 +4938,26 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2746324499739220403, guid: 09c20214ccef89d4c8186f07ebe63c3d,
+        type: 3}
+      propertyPath: defaultVariables.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2746324499739220403, guid: 09c20214ccef89d4c8186f07ebe63c3d,
+        type: 3}
+      propertyPath: defaultVariables.Array.data[0].value
+      value: Environment.UserName
+      objectReference: {fileID: 0}
+    - target: {fileID: 2746324499739220403, guid: 09c20214ccef89d4c8186f07ebe63c3d,
+        type: 3}
+      propertyPath: defaultVariables.Array.data[0].type
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2746324499739220403, guid: 09c20214ccef89d4c8186f07ebe63c3d,
+        type: 3}
+      propertyPath: defaultVariables.Array.data[0].name
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 2746324499739220405, guid: 09c20214ccef89d4c8186f07ebe63c3d,
         type: 3}
       propertyPath: onNodeComplete.m_PersistentCalls.m_Calls.Array.data[0].m_Target

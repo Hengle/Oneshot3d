@@ -6,6 +6,8 @@ public class Quitgame : MonoBehaviour
 {
     public void doExitGame()
     {
-        Application.Quit();
+        GameObject world = GameObject.Find("citytestmap");
+        WorldPos startgamer = GameObject.Find("citytestmap").GetComponent(typeof(WorldPos)) as WorldPos;
+        startgamer.goingdown = false;
     }
 }
