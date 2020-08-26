@@ -4,8 +4,7 @@ colorID: 0
 position: 857,430
 ---
 <<if $KelvinDialogue is 0>>
-<<set $player to Blueberry">>
-[Oh, a cat.] {$Player} test.
+[Oh, a cat.]
 [Are you lost?]
 <<setsprite Niko Neutral>> 
 Me?

@@ -162,6 +162,7 @@ tags:
 colorID: 0
 position: -1085,-28
 ---
+<<if $talkedtocedric is null>>
 <<setsprite npc cedric>> 
 This is my father's study.
 <<setsprite npc cedricsigh>> 
@@ -173,15 +174,17 @@ It feels like... he's still here, doesn't it?
 <<setsprite npc proto2b>>
 [...]
 <<setsprite npc Empty>>
-===
-title: Cedric2
-tags: 
-colorID: 0
-position: -1081,203
----
+<<set $talkedtocedric to 1>>
+<<stop>>
+<<endif>>
+
+<<if  $talkedtocedric is 1>>
 <<setsprite npc cedricsigh>> 
 Of course, this is just a copy of it...
 <<setsprite npc Empty>>
+<<stop>>
+<<endif>>
+
 ===
 title: Proto
 tags: 

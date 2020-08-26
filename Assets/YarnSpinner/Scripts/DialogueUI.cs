@@ -43,7 +43,7 @@ namespace Yarn.Unity {
 
          */
         public AudioSource textsound;
-
+        public AudioSource BotTextSound;
         public GameObject dialogueContainer;
 
         /// How quickly to show the text, in seconds per character
@@ -123,7 +123,13 @@ namespace Yarn.Unity {
                         onLineUpdate?.Invoke(text);
                         break;
                     }
-                    textsound.Play();
+                    if (text[0] == '[')
+                    {
+                        Debug.Log("found a [!");
+                        BotTextSound.Play();
+                    }
+                    else
+                        textsound.Play();
                     yield return new WaitForSeconds (textSpeed);
                 }
             } else {
