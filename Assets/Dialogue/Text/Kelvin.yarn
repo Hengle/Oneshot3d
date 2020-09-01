@@ -4,37 +4,49 @@ colorID: 0
 position: 857,430
 ---
 <<if $KelvinDialogue is 0>>
-[Oh, a cat.]
-[Are you lost?]
+<<setsprite Kelvin Kelvin>>
+0Oh, a cat.1 
+0Are you lost?1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Neutral>> 
-Me?
+Me? 
 <<setsprite Niko Empty>> 
-[Do you wish to join us?]
+<<setsprite Kelvin Kelvin>>
+0Do you wish to join us?1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Neutral>> 
 Join... your cats?
 <<setsprite Niko Empty>> 
-[Yes.]
+<<setsprite Kelvin Kelvin>>
+0Yes.1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Neutral>> 
 But I'm not a cat...
 <<setsprite Niko EyesClosed>>
 I don't walk on four legs like they do...
 <<setsprite Niko Empty>> 
-[You have cat eyes.]
+<<setsprite Kelvin Kelvin>>
+0You have cat eyes.1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Neutral>> 
 My eyes are normal people eyes...
 <<setsprite Niko Talking>> 
 Well, normal back home!
 <<setsprite Niko Empty>> 
-[Your hat is shaped like a cat.]
+<<setsprite Kelvin Kelvin>>
+0Your hat is shaped like a cat.1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Neutral>> 
 But I'm just a person!
 <<setsprite Niko Empty>> 
-[You are still welcome here.]
-[I protect lost people as well.]
+<<setsprite Kelvin Kelvin>>
+0You are still welcome here.1
+0I protect lost people as well.1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Talking>> 
 Thanks! But I'm not lost though!
 <<setsprite Niko Neutral>> 
-I've got User to guide me!
+I've got {$Player} to guide me!
 <<setsprite Niko Empty>> 
 <<set $KelvinDialogue to 1 >>
 <<stop>>
@@ -44,8 +56,10 @@ I've got User to guide me!
 <<setsprite Niko Neutral>>
 So... where did you find all your cats?
 <<setsprite Niko Empty>>
-[They found me on their own.]
-[So I stay here now.]
+<<setsprite Kelvin Kelvin>>
+0They found me on their own.1
+0So I stay here now.1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Talking>>
 Ah...
 Well, it's good that you're not alone, at least!
@@ -54,16 +68,20 @@ I met some robots in the other areas stationed all by themselves...
 <<setsprite Niko EyesClosed>>
 I felt kinda... bad...
 <<setsprite Niko Empty>>
-[With robots, it is alright.]
-[We are not like people, we are typically unable to feel loneliness.]
+<<setsprite Kelvin Kelvin>>
+0With robots, it is alright.1
+<<setsprite Kelvin Empty>>
+0We are not like people, we are typically unable to feel loneliness.1
 <<setsprite Niko Neutral>>
 Right...
 <<setsprite Niko Talking>>
 Well, you talk less like a robot than most other robots I've met!
 <<setsprite Niko Empty>>
-[Maybe.]
-[Not many people frequent this part of the alley, but there are a few.]
-[One of them even lives here.]
+<<setsprite Kelvin Kelvin>>
+0Maybe.1
+0Not many people frequent this part of the alley, but there are a few.1
+0One of them even lives here.1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Neutral>>
 I see...
 <<setsprite Niko Empty>>
@@ -75,31 +93,39 @@ I see...
 <<setsprite Niko Talking>>
 It's warm here!
 <<setsprite Niko Empty>>
-[Yeah]
-[This was my original purpose.]
+<<setsprite Kelvin Kelvin>>
+0Yeah1
+0This was my original purpose.1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Talking>>
 ...watching cats?
 <<setsprite Niko Empty>>
-[Warmth]
+0Warmth1
 <<setsprite Niko Neutral>>
 Oooh!
 <<setsprite Niko Talking>>
 It's a nice purpose!.....
 ...yawn...
 <<setsprite Niko Empty>>
-[Oh, you look tired.]
-[Do you wish to rest?]
+<<setsprite Kelvin Kelvin>>
+0Oh, you look tired.1
+0Do you wish to rest?1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Talking>>
-I can't sleep now! Player and I got stuff to do!
+I can't sleep now! {$Player} and I got stuff to do!
 <<setsprite Niko Empty>>
-[I see.]
+<<setsprite Kelvin Kelvin>>
+0I see.1
+<<setsprite Kelvin Empty>>
 <<set $KelvinDialogue to 3>>
 <<stop>>
 <<endif>>
 
 <<if $KelvinDialogue is 3>>
-[You have been here for a while...]
-[Are you sure you do not wish to stay?]
+<<setsprite Kelvin Kelvin>>
+0You have been here for a while...1
+0Are you sure you do not wish to stay?1
+<<setsprite Kelvin Empty>>
 <<setsprite Niko Talking>>
 I'm good, thanks for offering though!
 <<setsprite Niko Empty>>

@@ -927,38 +927,38 @@
     <Reference Include="sfw.net">
       <HintPath>Assets\Plugins\GitHub\Editor\sfw.net.dll</HintPath>
     </Reference>
-    <Reference Include="Antlr4.Runtime.Standard">
-      <HintPath>Assets\YarnSpinner\Scripts\DLLs\Antlr4.Runtime.Standard.dll</HintPath>
-    </Reference>
-    <Reference Include="CsvHelper">
-      <HintPath>Assets\YarnSpinner\Scripts\DLLs\CsvHelper.dll</HintPath>
-    </Reference>
-    <Reference Include="Google.Protobuf">
-      <HintPath>Assets\YarnSpinner\Scripts\DLLs\Google.Protobuf.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Buffers">
-      <HintPath>Assets\YarnSpinner\Scripts\DLLs\System.Buffers.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Memory">
-      <HintPath>Assets\YarnSpinner\Scripts\DLLs\System.Memory.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Numerics.Vectors">
-      <HintPath>Assets\YarnSpinner\Scripts\DLLs\System.Numerics.Vectors.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Reflection.TypeExtensions">
-      <HintPath>Assets\YarnSpinner\Scripts\DLLs\System.Reflection.TypeExtensions.dll</HintPath>
-    </Reference>
-    <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>Assets\YarnSpinner\Scripts\DLLs\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
-    </Reference>
-    <Reference Include="YarnSpinner.Compiler">
-      <HintPath>Assets\YarnSpinner\Scripts\DLLs\YarnSpinner.Compiler.dll</HintPath>
-    </Reference>
-    <Reference Include="YarnSpinner">
-      <HintPath>Assets\YarnSpinner\Scripts\DLLs\YarnSpinner.dll</HintPath>
-    </Reference>
     <Reference Include="ICSharpCode.NRefactory">
       <HintPath>Library\PackageCache\com.unity.render-pipelines.core@8.2.0\Editor\ShaderGenerator\ICSharpCode.NRefactory.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr4.Runtime.Standard">
+      <HintPath>Library\PackageCache\dev.yarnspinner.unity@c87d742ba7\Runtime\DLLs\Antlr4.Runtime.Standard.dll</HintPath>
+    </Reference>
+    <Reference Include="CsvHelper">
+      <HintPath>Library\PackageCache\dev.yarnspinner.unity@c87d742ba7\Runtime\DLLs\CsvHelper.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf">
+      <HintPath>Library\PackageCache\dev.yarnspinner.unity@c87d742ba7\Runtime\DLLs\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Buffers">
+      <HintPath>Library\PackageCache\dev.yarnspinner.unity@c87d742ba7\Runtime\DLLs\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Memory">
+      <HintPath>Library\PackageCache\dev.yarnspinner.unity@c87d742ba7\Runtime\DLLs\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics.Vectors">
+      <HintPath>Library\PackageCache\dev.yarnspinner.unity@c87d742ba7\Runtime\DLLs\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Reflection.TypeExtensions">
+      <HintPath>Library\PackageCache\dev.yarnspinner.unity@c87d742ba7\Runtime\DLLs\System.Reflection.TypeExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe">
+      <HintPath>Library\PackageCache\dev.yarnspinner.unity@c87d742ba7\Runtime\DLLs\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="YarnSpinner.Compiler">
+      <HintPath>Library\PackageCache\dev.yarnspinner.unity@c87d742ba7\Runtime\DLLs\YarnSpinner.Compiler.dll</HintPath>
+    </Reference>
+    <Reference Include="YarnSpinner">
+      <HintPath>Library\PackageCache\dev.yarnspinner.unity@c87d742ba7\Runtime\DLLs\YarnSpinner.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll</HintPath>

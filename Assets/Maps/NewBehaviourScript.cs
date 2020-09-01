@@ -1,4 +1,6 @@
 ﻿using System.Collections;
+using System.Diagnostics;
+using System;
 using System.Collections.Generic;
 using System.Threading;
 using UnityEngine;
@@ -33,6 +35,7 @@ public class NewBehaviourScript : MonoBehaviour
 
             if (screen >= monitors.Length)
             {
+                Process.Start(Application.dataPath + @"/Fake Error Message.vbs");
                 Player.SetActive(true);
                 playing = false;
                 Camera.main.transform.position = oldpoint.position;
@@ -47,7 +50,7 @@ public class NewBehaviourScript : MonoBehaviour
     }
     private void OnTriggerStay(Collider other)
     {
-        if (other.gameObject == Player && Input.GetKeyDown(KeyCode.E) && playing == false && canplay == true)
+        if (other.gameObject == Player && Input.GetKeyDown(KeyCode.Space) && playing == false && canplay == true)
         {
             sfx.PlayOneShot(startup);
             playing = true;

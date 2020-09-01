@@ -24,11 +24,11 @@ position: 105,-15
 <<setsprite Niko Neutral>> 
 It's a tea set.
 <<setsprite Niko Empty>>
-<<setsprite npc cedric_hmm>> 
+<<setsprite npcedric Hmm>> 
 Tea DOES sound really nice right now...
-<<setsprite npc cedric_sigh>>
+<<setsprite npcedric Sigh>>
 Too bad there's no water in here...
-<< setprite npc Empty>>
+<<setsprite npcedric Empty>>
 ===
 title: Clovercase
 tags: 
@@ -66,15 +66,15 @@ position: -139,-16
 <<setsprite Niko WTF>>
 The door is... gone?
 <<setsprite Niko Empty>> 
-<<setsprite npc proto2b>>
-[Well, the door does not exist without us there.]
-<<setsprite npc Empty>> 
+<<setsprite npcproto proto2b>>
+0Well, the door does not exist without us there.1
+<<setsprite npcproto greyedout>>
 <<setsprite Niko EyesClosed>>
 Guess I can't go back out, huh...
 <<setsprite Niko Empty>> 
-<<setsprite npc proto2>> 
-[...Do you need to?]
-<<setsprite npc Empty>> 
+<<setsprite npcproto Proto2>> 
+0...Do you need to?1
+<<setsprite npcproto Empty>> 
 <<setsprite Niko EyesClosed>>
 ...not really.
 <<setsprite Niko Empty>>
@@ -99,9 +99,9 @@ position: -365,-14
 <<setsprite Niko Neutral>> 
 A big, detailed drawing of a machine with lots of tv screens.
 <<setsprite Niko Empty>> 
-<<setsprite npc proto2b>> 
-[...That's called a blueprint, Niko.]
-<<setsprite npc Empty>> 
+<<setsprite npcproto Proto1>> 
+0...That's called a blueprint, Niko.1
+<<setsprite npcproto Empty>> 
 <<setsprite Niko Talking>> 
 ...So THAT's what a blueprint is!
 <<setsprite Niko Empty>>
@@ -151,11 +151,11 @@ tags:
 colorID: 0
 position: -853,201
 ---
-<<setsprite npc rueSpeak>> 
+<<setsprite npcrue Talking>> 
 The room ahead doesn't really lead anywhere, but...
-<<setsprite npc rue>> 
-Player should still remember what to do here.
-<<setsprite npc Empty>>
+<<setsprite npcrue Neutral>> 
+{$Player} should still remember what to do here.
+<<setsprite npcrue Empty>>
 ===
 title: Cedric1
 tags: 
@@ -163,25 +163,29 @@ colorID: 0
 position: -1085,-28
 ---
 <<if $talkedtocedric is null>>
-<<setsprite npc cedric>> 
+<<setsprite npcedric Neutral>> 
 This is my father's study.
-<<setsprite npc cedricsigh>> 
+<<setsprite npcedric Sigh>> 
 It feels like... he's still here, doesn't it?
-<<setsprite npc cedricsigh>> 
+<<setsprite npcedric Sigh>> 
 ...like he's still with us.
-<<setsprite npc ruesad>> 
+<<setsprite npcedric GreyedOut>> 
+<<setsprite npcrue sad>> 
 ...Yeah.
-<<setsprite npc proto2b>>
-[...]
-<<setsprite npc Empty>>
+<<setsprite npcrue Darkened>> 
+<<setsprite npcproto proto2b>>
+0...1
+<<setsprite npcedric Empty>>
+<<setsprite npcrue Empty>> 
+<<setsprite npcproto Empty>>
 <<set $talkedtocedric to 1>>
 <<stop>>
 <<endif>>
 
 <<if  $talkedtocedric is 1>>
-<<setsprite npc cedricsigh>> 
+<<setsprite npcedric Sigh>> 
 Of course, this is just a copy of it...
-<<setsprite npc Empty>>
+<<setsprite npcedric Empty>>
 <<stop>>
 <<endif>>
 
@@ -191,12 +195,12 @@ tags:
 colorID: 0
 position: -1312,-25
 ---
-<<setsprite npc proto2b>> 
-[...]
-[...This place contains a lot of memories.] 
-<<setsprite npc protoEyesClosed>> 
-[I am... grateful, to see it again.]
-<<setsprite npc Empty>>
+<<setsprite npcproto proto2b>> 
+0...1
+0...This place contains a lot of memories.1 
+<<setsprite npcproto ProtoEyesClosed>> 
+0I am... grateful, to see it again.1
+<<setsprite npcproto Empty>>
 ===
 title: Books
 tags: 

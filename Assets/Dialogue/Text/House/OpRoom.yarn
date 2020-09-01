@@ -11,7 +11,7 @@ tags:
 colorID: 0
 position: 900,500
 ---
-[Niko just woke up here.]
+0Niko just woke up here.1
 ===
 
 title: Books
@@ -19,42 +19,42 @@ tags:
 colorID: 0
 position: 602,427
 ---
-[Dusty books.]
-[It's too dark to read in here.]
+0Dusty books.1
+0It's too dark to read in here.1
 ===
 title: Branch
 tags: 
 colorID: 0
 position: 1104,426
 ---
-[A withered plant sits here, stiff and dry.]
-[There's no need to do anything else to it.]
+0A withered plant sits here, stiff and dry.1
+0There's no need to do anything else to it.1
 ===
 title: Mirror
 tags: 
 colorID: 0
 position: 360,428
 ---
-[A pair of <color=yellow>luminous, yellow eyes</color> stares back at Niko.]
+0A pair of <color=yellow>luminous, yellow eyes</color> stares back at Niko.1
 ===
 title: Toilet
 tags: 
 colorID: 0
 position: 1331,422
 ---
-[There's no water in the toilet.]
+0There's no water in the toilet.1
 ===
 title: Tub
 tags: 
 colorID: 0
 position: 136,430
 ---
-[The tub won't run.]
+0The tub won't run.1
 ===
 title: Window
 tags: 
 colorID: 0
 position: 136,430
 ---
-[A soft, glowing light trickles through the window]
+0A soft, glowing light trickles through the window1
 ===

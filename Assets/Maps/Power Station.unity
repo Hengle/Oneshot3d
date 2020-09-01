@@ -6601,6 +6601,16 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2746324499739220402, guid: 09c20214ccef89d4c8186f07ebe63c3d,
+        type: 3}
+      propertyPath: audioSource
+      value: 
+      objectReference: {fileID: 2124029874}
+    - target: {fileID: 2746324499739220402, guid: 09c20214ccef89d4c8186f07ebe63c3d,
+        type: 3}
+      propertyPath: test
+      value: 
+      objectReference: {fileID: 2124029874}
     - target: {fileID: 5479016190732311062, guid: 09c20214ccef89d4c8186f07ebe63c3d,
         type: 3}
       propertyPath: m_Name
@@ -6608,6 +6618,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 09c20214ccef89d4c8186f07ebe63c3d, type: 3}
+--- !u!82 &2124029874 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 8393771691397527561, guid: 09c20214ccef89d4c8186f07ebe63c3d,
+    type: 3}
+  m_PrefabInstance: {fileID: 2124029873}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2135258250
 GameObject:
   m_ObjectHideFlags: 0
